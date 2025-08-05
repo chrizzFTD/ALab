@@ -2,9 +2,9 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/surfacing/stoat_outfit01_surfacing.usda@,
-        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/modelling/stoat_outfit01_modelling.usda@,
-        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/preview/stoat_outfit01_preview.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/stoat_outfit01/surfacing/stoat_outfit01_surfacing.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/stoat_outfit01/modelling/stoat_outfit01_modelling.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/stoat_outfit01/preview/stoat_outfit01_preview.usda@
     ]
     upAxis = "Y"
 )

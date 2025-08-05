@@ -18,7 +18,7 @@ def Scope "root" (
             float3[] extentsHint = [(-0.49136758, -0.00069856644, -0.6703493), (0.49134374, 3.687433, 0.007882118)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/mesh/geo_modelling_test202009demo_ll_leaf01_sm01_base_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/test202009demo_ll_leaf01_sm01/base/mesh/geo_modelling_test202009demo_ll_leaf01_sm01_base_mesh.usd@
             )
             {
             }
@@ -31,7 +31,7 @@ def Scope "root" (
             float3[] extentsHint = [(-0.49136758, -0.00069856644, -0.6703493), (0.49134374, 3.687433, 0.007882118)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_high/mesh/geo_modelling_test202009demo_ll_leaf01_sm01_deform_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/test202009demo_ll_leaf01_sm01/deform_high/mesh/geo_modelling_test202009demo_ll_leaf01_sm01_deform_high_mesh.usd@
             )
             {
             }
@@ -44,7 +44,7 @@ def Scope "root" (
             float3[] extentsHint = [(-0.49136758, -0.00069856644, -0.6703493), (0.49134374, 3.687433, 0.007882118)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_mid/mesh/geo_modelling_test202009demo_ll_leaf01_sm01_deform_mid_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/test202009demo_ll_leaf01_sm01/deform_mid/mesh/geo_modelling_test202009demo_ll_leaf01_sm01_deform_mid_mesh.usd@
             )
             {
             }
@@ -54,7 +54,7 @@ def Scope "root" (
             float3[] extentsHint = [(-0.4792586, 0.15621905, -0.6527896), (0.4792369, 3.687878, 0.0041152695)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_test202009demo_ll_leaf01_sm01_display_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/test202009demo_ll_leaf01_sm01/display_high/mesh/geo_modelling_test202009demo_ll_leaf01_sm01_display_high_mesh.usd@
             )
             {
             }
@@ -76,7 +76,7 @@ def Scope "root" (
             float3[] extentsHint = [(-0.49136758, -0.00069856644, -0.6703493), (0.49134374, 3.687433, 0.007882118)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/pose/mesh/geo_modelling_test202009demo_ll_leaf01_sm01_pose_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/test202009demo_ll_leaf01_sm01/pose/mesh/geo_modelling_test202009demo_ll_leaf01_sm01_pose_mesh.usd@
             )
             {
             }
@@ -91,7 +91,7 @@ def Scope "root" (
             float3[] extentsHint = [(-0.49136758, -0.00069856644, -0.6703493), (0.49134374, 3.687433, 0.007882118)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/render_high/mesh/geo_modelling_test202009demo_ll_leaf01_sm01_render_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/test202009demo_ll_leaf01_sm01/render_high/mesh/geo_modelling_test202009demo_ll_leaf01_sm01_render_high_mesh.usd@
             )
             {
                 float3[] extentsHint = [(-0.49136758, -0.00069856644, -0.6703493), (0.49134374, 3.687433, 0.007882118)]
@@ -110,7 +110,7 @@ def Scope "root" (
                     }
 
                     def Xform "GEO_PROXY" (
-                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_test202009demo_ll_leaf01_sm01_display_high_mesh.usd@
+                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/test202009demo_ll_leaf01_sm01/display_high/mesh/geo_modelling_test202009demo_ll_leaf01_sm01_display_high_mesh.usd@
                     )
                     {
                         vector3d[] extentsHint = [(-0.4913675785064697, -0.0006985664367675781, -0.6703492999076843), (0.49134373664855957, 3.6874330043792725, 0.007882118225097656)]

@@ -18,7 +18,7 @@ def Xform "root" (
             float3[] extentsHint = [(-5.37476, -0.48832035, -23.490055), (5.3611426, 28.07002, 3.5477436)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/mesh/geo_modelling_stoat_outfit01_base_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/stoat_outfit01/base/mesh/geo_modelling_stoat_outfit01_base_mesh.usd@
             )
             {
             }
@@ -34,7 +34,7 @@ def Xform "root" (
             float3[] extentsHint = [(-5.37476, -0.48832035, -23.490055), (5.3611426, 28.07002, 3.5477436)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_high/mesh/geo_modelling_stoat_outfit01_deform_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/stoat_outfit01/deform_high/mesh/geo_modelling_stoat_outfit01_deform_high_mesh.usd@
             )
             {
             }
@@ -47,7 +47,7 @@ def Xform "root" (
             float3[] extentsHint = [(-5.3345017, -0.48826268, -23.494303), (5.367023, 28.08259, 3.552335)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_stoat_outfit01_display_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/stoat_outfit01/display_high/mesh/geo_modelling_stoat_outfit01_display_high_mesh.usd@
             )
             {
             }
@@ -69,7 +69,7 @@ def Xform "root" (
             float3[] extentsHint = [(-5.37476, -0.48832035, -23.490055), (5.3611426, 28.07002, 3.5477436)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/pose/mesh/geo_modelling_stoat_outfit01_pose_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/stoat_outfit01/pose/mesh/geo_modelling_stoat_outfit01_pose_mesh.usd@
             )
             {
             }
@@ -84,7 +84,7 @@ def Xform "root" (
             float3[] extentsHint = [(-5.37476, -0.48832035, -23.490055), (5.3611426, 28.07002, 3.5477436)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/render_high/mesh/geo_modelling_stoat_outfit01_render_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/stoat_outfit01/render_high/mesh/geo_modelling_stoat_outfit01_render_high_mesh.usd@
             )
             {
                 float3[] extentsHint = [(-5.37476, -0.48832035, -23.490055), (5.3611426, 28.07002, 3.5477436)]
@@ -103,7 +103,7 @@ def Xform "root" (
                     }
 
                     def Xform "GEO_PROXY" (
-                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_stoat_outfit01_display_high_mesh.usd@
+                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/stoat_outfit01/display_high/mesh/geo_modelling_stoat_outfit01_display_high_mesh.usd@
                     )
                     {
                         vector3d[] extentsHint = [(-5.374760150909424, -0.48832035064697266, -23.490055084228516), (5.361142635345459, 28.07002067565918, 3.547743558883667)]

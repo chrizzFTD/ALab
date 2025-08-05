@@ -2,9 +2,9 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/surfacing/decor_book_open01_surfacing.usda@,
-        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/modelling/decor_book_open01_modelling.usda@,
-        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/preview/decor_book_open01_preview.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/decor_book_open01/surfacing/decor_book_open01_surfacing.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/decor_book_open01/modelling/decor_book_open01_modelling.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/decor_book_open01/preview/decor_book_open01_preview.usda@
     ]
     upAxis = "Y"
 )

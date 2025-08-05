@@ -2,9 +2,9 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/surfacing/tool_board01_surfacing.usda@,
-        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/modelling/tool_board01_modelling.usda@,
-        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/preview/tool_board01_preview.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/tool_board01/surfacing/tool_board01_surfacing.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/tool_board01/modelling/tool_board01_modelling.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/tool_board01/preview/tool_board01_preview.usda@
     ]
     upAxis = "Y"
 )

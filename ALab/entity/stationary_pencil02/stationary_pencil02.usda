@@ -2,9 +2,9 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/surfacing/stationary_pencil02_surfacing.usda@,
-        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/modelling/stationary_pencil02_modelling.usda@,
-        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/preview/stationary_pencil02_preview.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/stationary_pencil02/surfacing/stationary_pencil02_surfacing.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/stationary_pencil02/modelling/stationary_pencil02_modelling.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/stationary_pencil02/preview/stationary_pencil02_preview.usda@
     ]
     upAxis = "Y"
 )

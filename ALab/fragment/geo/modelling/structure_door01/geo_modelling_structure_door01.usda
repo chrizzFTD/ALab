@@ -18,7 +18,7 @@ def Xform "root" (
             float3[] extentsHint = [(74.97339, -4.097351, 404.31067), (174.85939, 197.4701, 419.8048)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/mesh/geo_modelling_structure_door01_base_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/structure_door01/base/mesh/geo_modelling_structure_door01_base_mesh.usd@
             )
             {
             }
@@ -34,7 +34,7 @@ def Xform "root" (
             float3[] extentsHint = [(74.97339, -4.097351, 404.31067), (174.85939, 197.4701, 419.8048)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_high/mesh/geo_modelling_structure_door01_deform_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/structure_door01/deform_high/mesh/geo_modelling_structure_door01_deform_high_mesh.usd@
             )
             {
             }
@@ -47,7 +47,7 @@ def Xform "root" (
             float3[] extentsHint = [(75.02548, -4.0537367, 404.34982), (174.85939, 197.28557, 419.82843)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_structure_door01_display_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/structure_door01/display_high/mesh/geo_modelling_structure_door01_display_high_mesh.usd@
             )
             {
             }
@@ -69,7 +69,7 @@ def Xform "root" (
             float3[] extentsHint = [(74.97339, -4.097351, 404.31067), (174.85939, 197.4701, 419.8048)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/pose/mesh/geo_modelling_structure_door01_pose_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/structure_door01/pose/mesh/geo_modelling_structure_door01_pose_mesh.usd@
             )
             {
             }
@@ -84,7 +84,7 @@ def Xform "root" (
             float3[] extentsHint = [(74.97339, -4.097351, 404.31067), (174.85939, 197.4701, 419.8048)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/render_high/mesh/geo_modelling_structure_door01_render_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/structure_door01/render_high/mesh/geo_modelling_structure_door01_render_high_mesh.usd@
             )
             {
                 float3[] extentsHint = [(74.97339, -4.097351, 404.31067), (174.85939, 197.4701, 419.8048)]
@@ -103,7 +103,7 @@ def Xform "root" (
                     }
 
                     def Xform "GEO_PROXY" (
-                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_structure_door01_display_high_mesh.usd@
+                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/structure_door01/display_high/mesh/geo_modelling_structure_door01_display_high_mesh.usd@
                     )
                     {
                         vector3d[] extentsHint = [(74.973388671875, -4.09735107421875, 404.3106689453125), (174.85939025878906, 197.4700927734375, 419.8048095703125)]

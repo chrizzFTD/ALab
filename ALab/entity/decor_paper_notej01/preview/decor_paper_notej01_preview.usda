@@ -5,11 +5,11 @@
 
 def "root"
 {
-    asset model:cardTextureXNeg = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/decor_paper_notej01_preview/cards_textures_x_neg.png@
-    asset model:cardTextureXPos = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/decor_paper_notej01_preview/cards_textures_X_pos.png@
-    asset model:cardTextureYNeg = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/decor_paper_notej01_preview/cards_textures_y_neg.png@
-    asset model:cardTextureYPos = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/decor_paper_notej01_preview/cards_textures_y_pos.png@
-    asset model:cardTextureZNeg = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/decor_paper_notej01_preview/cards_textures_z_neg.png@
-    asset model:cardTextureZPos = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/decor_paper_notej01_preview/cards_textures_z_pos.png@
+    asset model:cardTextureXNeg = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/decor_paper_notej01/preview/decor_paper_notej01_preview/cards_textures_x_neg.png@
+    asset model:cardTextureXPos = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/decor_paper_notej01/preview/decor_paper_notej01_preview/cards_textures_X_pos.png@
+    asset model:cardTextureYNeg = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/decor_paper_notej01/preview/decor_paper_notej01_preview/cards_textures_y_neg.png@
+    asset model:cardTextureYPos = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/decor_paper_notej01/preview/decor_paper_notej01_preview/cards_textures_y_pos.png@
+    asset model:cardTextureZNeg = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/decor_paper_notej01/preview/decor_paper_notej01_preview/cards_textures_z_neg.png@
+    asset model:cardTextureZPos = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/decor_paper_notej01/preview/decor_paper_notej01_preview/cards_textures_z_pos.png@
 }
 

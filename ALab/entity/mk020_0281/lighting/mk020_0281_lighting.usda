@@ -2,7 +2,7 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/../lightingrenderovers/mk020_0281_lightingrenderovers.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/mk020_0281/lightingrenderovers/mk020_0281_lightingrenderovers.usda@
     ]
 )
 

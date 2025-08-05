@@ -2,7 +2,7 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/assembly/lab_inspiration01_assembly.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/lab_inspiration01/assembly/lab_inspiration01_assembly.usda@
     ]
     upAxis = "Y"
 )

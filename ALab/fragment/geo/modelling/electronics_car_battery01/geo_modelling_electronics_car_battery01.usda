@@ -18,7 +18,7 @@ def Xform "root" (
             float3[] extentsHint = [(-9.163535, 0, -11.422142), (9.163532, 17.109665, 11.422142)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/mesh/geo_modelling_electronics_car_battery01_base_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/electronics_car_battery01/base/mesh/geo_modelling_electronics_car_battery01_base_mesh.usd@
             )
             {
             }
@@ -34,7 +34,7 @@ def Xform "root" (
             float3[] extentsHint = [(-9.163535, 0, -11.422142), (9.163532, 17.109665, 11.422142)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_high/mesh/geo_modelling_electronics_car_battery01_deform_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/electronics_car_battery01/deform_high/mesh/geo_modelling_electronics_car_battery01_deform_high_mesh.usd@
             )
             {
             }
@@ -47,7 +47,7 @@ def Xform "root" (
             float3[] extentsHint = [(-9.162023, 0.00032868714, -11.422528), (9.16202, 17.109665, 11.422528)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_electronics_car_battery01_display_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/electronics_car_battery01/display_high/mesh/geo_modelling_electronics_car_battery01_display_high_mesh.usd@
             )
             {
             }
@@ -69,7 +69,7 @@ def Xform "root" (
             float3[] extentsHint = [(-9.163535, 0, -11.422142), (9.163532, 17.109665, 11.422142)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/pose/mesh/geo_modelling_electronics_car_battery01_pose_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/electronics_car_battery01/pose/mesh/geo_modelling_electronics_car_battery01_pose_mesh.usd@
             )
             {
             }
@@ -84,7 +84,7 @@ def Xform "root" (
             float3[] extentsHint = [(-9.163535, 0, -11.422142), (9.163532, 17.109665, 11.422142)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/render_high/mesh/geo_modelling_electronics_car_battery01_render_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/electronics_car_battery01/render_high/mesh/geo_modelling_electronics_car_battery01_render_high_mesh.usd@
             )
             {
                 float3[] extentsHint = [(-9.163535, 0, -11.422142), (9.163532, 17.109665, 11.422142)]
@@ -103,7 +103,7 @@ def Xform "root" (
                     }
 
                     def Xform "GEO_PROXY" (
-                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_electronics_car_battery01_display_high_mesh.usd@
+                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/electronics_car_battery01/display_high/mesh/geo_modelling_electronics_car_battery01_display_high_mesh.usd@
                     )
                     {
                         vector3d[] extentsHint = [(-9.163535118103027, 0, -11.422142028808594), (9.163532257080078, 17.109664916992188, 11.422142028808594)]

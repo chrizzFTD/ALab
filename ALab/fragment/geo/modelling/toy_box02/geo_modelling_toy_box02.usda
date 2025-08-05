@@ -18,7 +18,7 @@ def Xform "root" (
             float3[] extentsHint = [(-13.04995, -0.20019767, -1.9159563), (12.9504595, 17.950464, 1.6642218)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/mesh/geo_modelling_toy_box02_base_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/toy_box02/base/mesh/geo_modelling_toy_box02_base_mesh.usd@
             )
             {
             }
@@ -34,7 +34,7 @@ def Xform "root" (
             float3[] extentsHint = [(-13.04995, -0.20019767, -1.9159563), (12.9504595, 17.950464, 1.6642218)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_high/mesh/geo_modelling_toy_box02_deform_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/toy_box02/deform_high/mesh/geo_modelling_toy_box02_deform_high_mesh.usd@
             )
             {
             }
@@ -47,7 +47,7 @@ def Xform "root" (
             float3[] extentsHint = [(-13.027514, -0.1942673, -1.9159563), (12.9504595, 17.950464, 1.6642218)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_mid/mesh/geo_modelling_toy_box02_deform_mid_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/toy_box02/deform_mid/mesh/geo_modelling_toy_box02_deform_mid_mesh.usd@
             )
             {
             }
@@ -57,7 +57,7 @@ def Xform "root" (
             float3[] extentsHint = [(-12.935531, -0.17787035, -1.9266138), (12.937961, 17.929386, 1.6524178)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_toy_box02_display_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/toy_box02/display_high/mesh/geo_modelling_toy_box02_display_high_mesh.usd@
             )
             {
             }
@@ -82,7 +82,7 @@ def Xform "root" (
             float3[] extentsHint = [(-13.04995, -0.20019767, -1.9159563), (12.9504595, 17.950464, 1.6642218)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/pose/mesh/geo_modelling_toy_box02_pose_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/toy_box02/pose/mesh/geo_modelling_toy_box02_pose_mesh.usd@
             )
             {
             }
@@ -97,7 +97,7 @@ def Xform "root" (
             float3[] extentsHint = [(-13.04995, -0.20019767, -1.9159563), (12.9504595, 17.950464, 1.6642218)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/render_high/mesh/geo_modelling_toy_box02_render_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/toy_box02/render_high/mesh/geo_modelling_toy_box02_render_high_mesh.usd@
             )
             {
                 float3[] extentsHint = [(-13.04995, -0.20019767, -1.9159563), (12.9504595, 17.950464, 1.6642218)]
@@ -116,7 +116,7 @@ def Xform "root" (
                     }
 
                     def Xform "GEO_PROXY" (
-                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_toy_box02_display_high_mesh.usd@
+                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/toy_box02/display_high/mesh/geo_modelling_toy_box02_display_high_mesh.usd@
                     )
                     {
                         vector3d[] extentsHint = [(-13.049949645996094, -0.20019766688346863, -1.9159562587738037), (12.950459480285645, 17.950464248657227, 1.6642217636108398)]

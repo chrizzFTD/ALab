@@ -7,7 +7,7 @@
 )
 
 def "root" (
-    prepend payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/render_high/binding/look_surfacing_furniture_bench01_render_high_binding/render_high.usda@
+    prepend payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/look/surfacing/furniture_bench01/render_high/binding/look_surfacing_furniture_bench01_render_high_binding/render_high.usda@
 )
 {
 }

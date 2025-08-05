@@ -18,7 +18,7 @@ def Xform "root" (
             float3[] extentsHint = [(-573.75916, 171.44029, -91.206795), (337.2072, 316.75006, 438.1433)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/mesh/geo_modelling_structure_roof_base_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/structure_roof/base/mesh/geo_modelling_structure_roof_base_mesh.usd@
             )
             {
             }
@@ -34,7 +34,7 @@ def Xform "root" (
             float3[] extentsHint = [(-573.75916, 171.44029, -91.206795), (337.2072, 316.75006, 438.1433)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_high/mesh/geo_modelling_structure_roof_deform_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/structure_roof/deform_high/mesh/geo_modelling_structure_roof_deform_high_mesh.usd@
             )
             {
             }
@@ -47,7 +47,7 @@ def Xform "root" (
             float3[] extentsHint = [(-386.97818, 253.4663, -89.40018), (330.8483, 376.43484, 453.87708)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_mid/mesh/geo_modelling_structure_roof_deform_mid_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/structure_roof/deform_mid/mesh/geo_modelling_structure_roof_deform_mid_mesh.usd@
             )
             {
             }
@@ -57,7 +57,7 @@ def Xform "root" (
             float3[] extentsHint = [(-573.7209, 171.6302, -91.12079), (336.99872, 316.75006, 437.85123)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_structure_roof_display_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/structure_roof/display_high/mesh/geo_modelling_structure_roof_display_high_mesh.usd@
             )
             {
             }
@@ -82,7 +82,7 @@ def Xform "root" (
             float3[] extentsHint = [(-573.75916, 171.44029, -91.206795), (337.2072, 316.75006, 438.1433)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/pose/mesh/geo_modelling_structure_roof_pose_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/structure_roof/pose/mesh/geo_modelling_structure_roof_pose_mesh.usd@
             )
             {
             }
@@ -97,7 +97,7 @@ def Xform "root" (
             float3[] extentsHint = [(-573.75916, 171.44029, -91.206795), (337.2072, 316.75006, 438.1433)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/render_high/mesh/geo_modelling_structure_roof_render_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/structure_roof/render_high/mesh/geo_modelling_structure_roof_render_high_mesh.usd@
             )
             {
                 float3[] extentsHint = [(-573.75916, 171.44029, -91.206795), (337.2072, 316.75006, 438.1433)]
@@ -116,7 +116,7 @@ def Xform "root" (
                     }
 
                     def Xform "GEO_PROXY" (
-                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_structure_roof_display_high_mesh.usd@
+                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/structure_roof/display_high/mesh/geo_modelling_structure_roof_display_high_mesh.usd@
                     )
                     {
                         vector3d[] extentsHint = [(-573.7591552734375, 171.44029235839844, -91.20679473876953), (337.20721435546875, 316.75006103515625, 438.143310546875)]

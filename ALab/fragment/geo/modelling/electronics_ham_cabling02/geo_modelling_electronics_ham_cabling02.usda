@@ -18,7 +18,7 @@ def Xform "root" (
             float3[] extentsHint = [(276.3239, 49.79515, 104.59788), (319.4836, 141.29666, 222.85277)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/mesh/geo_modelling_electronics_ham_cabling02_base_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/electronics_ham_cabling02/base/mesh/geo_modelling_electronics_ham_cabling02_base_mesh.usd@
             )
             {
             }
@@ -34,7 +34,7 @@ def Xform "root" (
             float3[] extentsHint = [(276.3239, 49.79515, 104.59788), (319.4836, 141.29666, 222.85277)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_high/mesh/geo_modelling_electronics_ham_cabling02_deform_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/electronics_ham_cabling02/deform_high/mesh/geo_modelling_electronics_ham_cabling02_deform_high_mesh.usd@
             )
             {
             }
@@ -47,7 +47,7 @@ def Xform "root" (
             float3[] extentsHint = [(276.32544, 49.95875, 104.60123), (319.48224, 141.24745, 222.83867)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_electronics_ham_cabling02_display_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/electronics_ham_cabling02/display_high/mesh/geo_modelling_electronics_ham_cabling02_display_high_mesh.usd@
             )
             {
             }
@@ -69,7 +69,7 @@ def Xform "root" (
             float3[] extentsHint = [(276.3239, 49.79515, 104.59788), (319.4836, 141.29666, 222.85277)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/pose/mesh/geo_modelling_electronics_ham_cabling02_pose_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/electronics_ham_cabling02/pose/mesh/geo_modelling_electronics_ham_cabling02_pose_mesh.usd@
             )
             {
             }
@@ -84,7 +84,7 @@ def Xform "root" (
             float3[] extentsHint = [(276.3239, 49.79515, 104.59788), (319.4836, 141.29666, 222.85277)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/render_high/mesh/geo_modelling_electronics_ham_cabling02_render_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/electronics_ham_cabling02/render_high/mesh/geo_modelling_electronics_ham_cabling02_render_high_mesh.usd@
             )
             {
                 float3[] extentsHint = [(276.3239, 49.79515, 104.59788), (319.4836, 141.29666, 222.85277)]
@@ -103,7 +103,7 @@ def Xform "root" (
                     }
 
                     def Xform "GEO_PROXY" (
-                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_electronics_ham_cabling02_display_high_mesh.usd@
+                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/electronics_ham_cabling02/display_high/mesh/geo_modelling_electronics_ham_cabling02_display_high_mesh.usd@
                     )
                     {
                         vector3d[] extentsHint = [(276.32391357421875, 49.79515075683594, 104.5978775024414), (319.4836120605469, 141.29666137695312, 222.85276794433594)]

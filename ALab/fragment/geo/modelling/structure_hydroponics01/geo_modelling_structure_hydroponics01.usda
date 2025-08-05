@@ -18,7 +18,7 @@ def Xform "root" (
             float3[] extentsHint = [(243.49002, 154.14224, 266.15564), (308.69833, 249.68672, 405.18433)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/mesh/geo_modelling_structure_hydroponics01_base_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/structure_hydroponics01/base/mesh/geo_modelling_structure_hydroponics01_base_mesh.usd@
             )
             {
             }
@@ -34,7 +34,7 @@ def Xform "root" (
             float3[] extentsHint = [(243.49002, 154.14224, 266.15564), (308.69833, 249.68672, 405.18433)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_high/mesh/geo_modelling_structure_hydroponics01_deform_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/structure_hydroponics01/deform_high/mesh/geo_modelling_structure_hydroponics01_deform_high_mesh.usd@
             )
             {
             }
@@ -47,7 +47,7 @@ def Xform "root" (
             float3[] extentsHint = [(243.59146, 154.1408, 266.15417), (308.6844, 249.68672, 405.1155)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_structure_hydroponics01_display_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/structure_hydroponics01/display_high/mesh/geo_modelling_structure_hydroponics01_display_high_mesh.usd@
             )
             {
             }
@@ -69,7 +69,7 @@ def Xform "root" (
             float3[] extentsHint = [(243.49002, 154.14224, 266.15564), (308.69833, 249.68672, 405.18433)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/pose/mesh/geo_modelling_structure_hydroponics01_pose_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/structure_hydroponics01/pose/mesh/geo_modelling_structure_hydroponics01_pose_mesh.usd@
             )
             {
             }
@@ -84,7 +84,7 @@ def Xform "root" (
             float3[] extentsHint = [(243.49002, 154.14224, 266.15564), (308.69833, 249.68672, 405.18433)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/render_high/mesh/geo_modelling_structure_hydroponics01_render_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/structure_hydroponics01/render_high/mesh/geo_modelling_structure_hydroponics01_render_high_mesh.usd@
             )
             {
                 float3[] extentsHint = [(243.49002, 154.14224, 266.15564), (308.69833, 249.68672, 405.18433)]
@@ -103,7 +103,7 @@ def Xform "root" (
                     }
 
                     def Xform "GEO_PROXY" (
-                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_structure_hydroponics01_display_high_mesh.usd@
+                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/structure_hydroponics01/display_high/mesh/geo_modelling_structure_hydroponics01_display_high_mesh.usd@
                     )
                     {
                         vector3d[] extentsHint = [(243.49002075195312, 154.14224243164062, 266.1556396484375), (308.6983337402344, 249.6867218017578, 405.184326171875)]

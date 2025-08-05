@@ -18,7 +18,7 @@ def Xform "root" (
             float3[] extentsHint = [(-3.5468252, -3.5509212, -3.5111365), (3.5468242, 3.5509214, 3.5111365)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/mesh/geo_modelling_decor_cricket_ball01_base_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/decor_cricket_ball01/base/mesh/geo_modelling_decor_cricket_ball01_base_mesh.usd@
             )
             {
             }
@@ -34,7 +34,7 @@ def Xform "root" (
             float3[] extentsHint = [(-3.5468252, -3.5509212, -3.5111365), (3.5468242, 3.5509214, 3.5111365)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_high/mesh/geo_modelling_decor_cricket_ball01_deform_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/decor_cricket_ball01/deform_high/mesh/geo_modelling_decor_cricket_ball01_deform_high_mesh.usd@
             )
             {
             }
@@ -47,7 +47,7 @@ def Xform "root" (
             float3[] extentsHint = [(-3.5510395, -3.5509212, -3.5153124), (3.551039, 3.5509212, 3.5153124)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_decor_cricket_ball01_display_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/decor_cricket_ball01/display_high/mesh/geo_modelling_decor_cricket_ball01_display_high_mesh.usd@
             )
             {
             }
@@ -69,7 +69,7 @@ def Xform "root" (
             float3[] extentsHint = [(-3.5468252, -3.5509212, -3.5111365), (3.5468242, 3.5509214, 3.5111365)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/pose/mesh/geo_modelling_decor_cricket_ball01_pose_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/decor_cricket_ball01/pose/mesh/geo_modelling_decor_cricket_ball01_pose_mesh.usd@
             )
             {
             }
@@ -84,7 +84,7 @@ def Xform "root" (
             float3[] extentsHint = [(-3.5468252, -3.5509212, -3.5111365), (3.5468242, 3.5509214, 3.5111365)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/render_high/mesh/geo_modelling_decor_cricket_ball01_render_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/decor_cricket_ball01/render_high/mesh/geo_modelling_decor_cricket_ball01_render_high_mesh.usd@
             )
             {
                 float3[] extentsHint = [(-3.5468252, -3.5509212, -3.5111365), (3.5468242, 3.5509214, 3.5111365)]
@@ -103,7 +103,7 @@ def Xform "root" (
                     }
 
                     def Xform "GEO_PROXY" (
-                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_decor_cricket_ball01_display_high_mesh.usd@
+                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/decor_cricket_ball01/display_high/mesh/geo_modelling_decor_cricket_ball01_display_high_mesh.usd@
                     )
                     {
                         vector3d[] extentsHint = [(-3.5468251705169678, -3.5509212017059326, -3.511136531829834), (3.5468242168426514, 3.5509214401245117, 3.511136531829834)]

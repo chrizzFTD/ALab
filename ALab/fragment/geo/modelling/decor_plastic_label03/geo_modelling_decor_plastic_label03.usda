@@ -18,7 +18,7 @@ def Xform "root" (
             float3[] extentsHint = [(-4.034, -0.05, -0.45), (4.034, 0.05, 0.45)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/mesh/geo_modelling_decor_plastic_label03_base_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/decor_plastic_label03/base/mesh/geo_modelling_decor_plastic_label03_base_mesh.usd@
             )
             {
             }
@@ -34,7 +34,7 @@ def Xform "root" (
             float3[] extentsHint = [(-4.034, -0.05, -0.45), (4.034, 0.05, 0.45)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_high/mesh/geo_modelling_decor_plastic_label03_deform_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/decor_plastic_label03/deform_high/mesh/geo_modelling_decor_plastic_label03_deform_high_mesh.usd@
             )
             {
             }
@@ -47,7 +47,7 @@ def Xform "root" (
             float3[] extentsHint = [(-4.032801, -0.05, -0.45), (4.032801, 0.04991199, 0.45)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_decor_plastic_label03_display_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/decor_plastic_label03/display_high/mesh/geo_modelling_decor_plastic_label03_display_high_mesh.usd@
             )
             {
             }
@@ -69,7 +69,7 @@ def Xform "root" (
             float3[] extentsHint = [(-4.034, -0.05, -0.45), (4.034, 0.05, 0.45)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/pose/mesh/geo_modelling_decor_plastic_label03_pose_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/decor_plastic_label03/pose/mesh/geo_modelling_decor_plastic_label03_pose_mesh.usd@
             )
             {
             }
@@ -84,7 +84,7 @@ def Xform "root" (
             float3[] extentsHint = [(-4.034, -0.05, -0.45), (4.034, 0.05, 0.45)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/render_high/mesh/geo_modelling_decor_plastic_label03_render_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/decor_plastic_label03/render_high/mesh/geo_modelling_decor_plastic_label03_render_high_mesh.usd@
             )
             {
                 float3[] extentsHint = [(-4.034, -0.05, -0.45), (4.034, 0.05, 0.45)]
@@ -103,7 +103,7 @@ def Xform "root" (
                     }
 
                     def Xform "GEO_PROXY" (
-                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_decor_plastic_label03_display_high_mesh.usd@
+                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/decor_plastic_label03/display_high/mesh/geo_modelling_decor_plastic_label03_display_high_mesh.usd@
                     )
                     {
                         vector3d[] extentsHint = [(-4.033999919891357, -0.05000000074505806, -0.44999998807907104), (4.033999919891357, 0.05000000074505806, 0.44999998807907104)]

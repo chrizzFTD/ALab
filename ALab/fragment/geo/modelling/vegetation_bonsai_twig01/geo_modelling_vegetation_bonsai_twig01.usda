@@ -18,7 +18,7 @@ def Xform "root" (
             float3[] extentsHint = [(-0.20172694, -0.031100305, -0.24027643), (0.08568204, 0.55997044, 0.03845658)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/mesh/geo_modelling_vegetation_bonsai_twig01_base_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/vegetation_bonsai_twig01/base/mesh/geo_modelling_vegetation_bonsai_twig01_base_mesh.usd@
             )
             {
             }
@@ -34,7 +34,7 @@ def Xform "root" (
             float3[] extentsHint = [(-0.20172694, -0.031100305, -0.24027643), (0.08568204, 0.55997044, 0.03845658)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_high/mesh/geo_modelling_vegetation_bonsai_twig01_deform_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/vegetation_bonsai_twig01/deform_high/mesh/geo_modelling_vegetation_bonsai_twig01_deform_high_mesh.usd@
             )
             {
             }
@@ -47,7 +47,7 @@ def Xform "root" (
             float3[] extentsHint = [(-0.20548576, -0.029644966, -0.24067289), (0.0870323, 0.56872416, 0.04193759)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_mid/mesh/geo_modelling_vegetation_bonsai_twig01_deform_mid_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/vegetation_bonsai_twig01/deform_mid/mesh/geo_modelling_vegetation_bonsai_twig01_deform_mid_mesh.usd@
             )
             {
             }
@@ -57,7 +57,7 @@ def Xform "root" (
             float3[] extentsHint = [(-0.19906394, -0.031100307, -0.23417439), (0.07028822, 0.55997044, 0.03592057)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_vegetation_bonsai_twig01_display_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/vegetation_bonsai_twig01/display_high/mesh/geo_modelling_vegetation_bonsai_twig01_display_high_mesh.usd@
             )
             {
             }
@@ -82,7 +82,7 @@ def Xform "root" (
             float3[] extentsHint = [(-0.20172694, -0.031100305, -0.24027643), (0.08568204, 0.55997044, 0.03845658)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/pose/mesh/geo_modelling_vegetation_bonsai_twig01_pose_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/vegetation_bonsai_twig01/pose/mesh/geo_modelling_vegetation_bonsai_twig01_pose_mesh.usd@
             )
             {
             }
@@ -97,7 +97,7 @@ def Xform "root" (
             float3[] extentsHint = [(-0.20172694, -0.031100305, -0.24027643), (0.08568204, 0.55997044, 0.03845658)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/render_high/mesh/geo_modelling_vegetation_bonsai_twig01_render_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/vegetation_bonsai_twig01/render_high/mesh/geo_modelling_vegetation_bonsai_twig01_render_high_mesh.usd@
             )
             {
                 float3[] extentsHint = [(-0.20172694, -0.031100305, -0.24027643), (0.08568204, 0.55997044, 0.03845658)]
@@ -116,7 +116,7 @@ def Xform "root" (
                     }
 
                     def Xform "GEO_PROXY" (
-                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_vegetation_bonsai_twig01_display_high_mesh.usd@
+                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/vegetation_bonsai_twig01/display_high/mesh/geo_modelling_vegetation_bonsai_twig01_display_high_mesh.usd@
                     )
                     {
                         vector3d[] extentsHint = [(-0.20172694325447083, -0.031100304797291756, -0.24027642607688904), (0.08568204194307327, 0.5599704384803772, 0.03845658153295517)]

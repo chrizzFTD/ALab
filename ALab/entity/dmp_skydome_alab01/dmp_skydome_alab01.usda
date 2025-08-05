@@ -2,8 +2,8 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/surfacing/dmp_skydome_alab01_surfacing.usda@,
-        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/modelling/dmp_skydome_alab01_modelling.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/dmp_skydome_alab01/surfacing/dmp_skydome_alab01_surfacing.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/dmp_skydome_alab01/modelling/dmp_skydome_alab01_modelling.usda@
     ]
     upAxis = "Y"
 )

@@ -18,7 +18,7 @@ def Xform "root" (
             float3[] extentsHint = [(-5.7992554, -4.3292313, -11.192108), (5.7992554, 4.329239, 11.192139)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/mesh/geo_modelling_structure_brick_broken03_base_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/structure_brick_broken03/base/mesh/geo_modelling_structure_brick_broken03_base_mesh.usd@
             )
             {
             }
@@ -34,7 +34,7 @@ def Xform "root" (
             float3[] extentsHint = [(-5.7992554, -4.3292313, -11.192108), (5.7992554, 4.329239, 11.192139)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_high/mesh/geo_modelling_structure_brick_broken03_deform_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/structure_brick_broken03/deform_high/mesh/geo_modelling_structure_brick_broken03_deform_high_mesh.usd@
             )
             {
             }
@@ -47,7 +47,7 @@ def Xform "root" (
             float3[] extentsHint = [(-5.7992554, -4.3292313, -11.162876), (5.8111963, 4.288376, 11.19214)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_structure_brick_broken03_display_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/structure_brick_broken03/display_high/mesh/geo_modelling_structure_brick_broken03_display_high_mesh.usd@
             )
             {
             }
@@ -69,7 +69,7 @@ def Xform "root" (
             float3[] extentsHint = [(-5.7992554, -4.3292313, -11.192108), (5.7992554, 4.329239, 11.192139)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/pose/mesh/geo_modelling_structure_brick_broken03_pose_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/structure_brick_broken03/pose/mesh/geo_modelling_structure_brick_broken03_pose_mesh.usd@
             )
             {
             }
@@ -84,7 +84,7 @@ def Xform "root" (
             float3[] extentsHint = [(-5.7992554, -4.3292313, -11.192108), (5.7992554, 4.329239, 11.192139)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/render_high/mesh/geo_modelling_structure_brick_broken03_render_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/structure_brick_broken03/render_high/mesh/geo_modelling_structure_brick_broken03_render_high_mesh.usd@
             )
             {
                 float3[] extentsHint = [(-5.7992554, -4.3292313, -11.192108), (5.7992554, 4.329239, 11.192139)]
@@ -103,7 +103,7 @@ def Xform "root" (
                     }
 
                     def Xform "GEO_PROXY" (
-                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_structure_brick_broken03_display_high_mesh.usd@
+                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/structure_brick_broken03/display_high/mesh/geo_modelling_structure_brick_broken03_display_high_mesh.usd@
                     )
                     {
                         vector3d[] extentsHint = [(-5.79925537109375, -4.329231262207031, -11.192108154296875), (5.79925537109375, 4.3292388916015625, 11.192138671875)]

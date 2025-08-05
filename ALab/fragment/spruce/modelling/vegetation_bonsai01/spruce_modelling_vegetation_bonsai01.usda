@@ -18,7 +18,7 @@ def "root" (
 
         }
         "render" (
-            payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/groom/spruce_modelling_vegetation_bonsai01_base_groom/groom.usda@
+            payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/spruce/modelling/vegetation_bonsai01/base/groom/spruce_modelling_vegetation_bonsai01_base_groom/groom.usda@
         ) {
 
         }

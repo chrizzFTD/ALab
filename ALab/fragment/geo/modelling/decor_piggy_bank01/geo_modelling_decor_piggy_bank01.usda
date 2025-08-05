@@ -18,7 +18,7 @@ def Xform "root" (
             float3[] extentsHint = [(-5.6856494, 0.14498949, -6.068237), (5.685746, 11.423822, 11.54043)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/mesh/geo_modelling_decor_piggy_bank01_base_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/decor_piggy_bank01/base/mesh/geo_modelling_decor_piggy_bank01_base_mesh.usd@
             )
             {
             }
@@ -34,7 +34,7 @@ def Xform "root" (
             float3[] extentsHint = [(-5.6856494, 0.14498949, -6.068237), (5.685746, 11.423822, 11.54043)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_high/mesh/geo_modelling_decor_piggy_bank01_deform_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/decor_piggy_bank01/deform_high/mesh/geo_modelling_decor_piggy_bank01_deform_high_mesh.usd@
             )
             {
             }
@@ -47,7 +47,7 @@ def Xform "root" (
             float3[] extentsHint = [(-5.6874266, 0.13646711, -6.070958), (5.687394, 11.449171, 11.518024)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_decor_piggy_bank01_display_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/decor_piggy_bank01/display_high/mesh/geo_modelling_decor_piggy_bank01_display_high_mesh.usd@
             )
             {
             }
@@ -69,7 +69,7 @@ def Xform "root" (
             float3[] extentsHint = [(-5.6856494, 0.14498949, -6.068237), (5.685746, 11.423822, 11.54043)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/pose/mesh/geo_modelling_decor_piggy_bank01_pose_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/decor_piggy_bank01/pose/mesh/geo_modelling_decor_piggy_bank01_pose_mesh.usd@
             )
             {
             }
@@ -84,7 +84,7 @@ def Xform "root" (
             float3[] extentsHint = [(-5.6856494, 0.14498949, -6.068237), (5.685746, 11.423822, 11.54043)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/render_high/mesh/geo_modelling_decor_piggy_bank01_render_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/decor_piggy_bank01/render_high/mesh/geo_modelling_decor_piggy_bank01_render_high_mesh.usd@
             )
             {
                 float3[] extentsHint = [(-5.6856494, 0.14498949, -6.068237), (5.685746, 11.423822, 11.54043)]
@@ -103,7 +103,7 @@ def Xform "root" (
                     }
 
                     def Xform "GEO_PROXY" (
-                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_decor_piggy_bank01_display_high_mesh.usd@
+                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/decor_piggy_bank01/display_high/mesh/geo_modelling_decor_piggy_bank01_display_high_mesh.usd@
                     )
                     {
                         vector3d[] extentsHint = [(-5.685649394989014, 0.1449894905090332, -6.068236827850342), (5.685746192932129, 11.423822402954102, 11.540430068969727)]

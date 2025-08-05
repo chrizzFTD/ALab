@@ -18,7 +18,7 @@ def Xform "root" (
             float3[] extentsHint = [(-0.08521858, -2.096613e-18, -0.59182596), (0.10678013, 0.5414425, 0.59182596)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/mesh/geo_modelling_proc_dev_circuit_resistor09_base_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/proc_dev_circuit_resistor09/base/mesh/geo_modelling_proc_dev_circuit_resistor09_base_mesh.usd@
             )
             {
             }
@@ -34,7 +34,7 @@ def Xform "root" (
             float3[] extentsHint = [(-0.08521858, -2.096613e-18, -0.59182596), (0.10678013, 0.5414425, 0.59182596)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_high/mesh/geo_modelling_proc_dev_circuit_resistor09_deform_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/proc_dev_circuit_resistor09/deform_high/mesh/geo_modelling_proc_dev_circuit_resistor09_deform_high_mesh.usd@
             )
             {
             }
@@ -47,7 +47,7 @@ def Xform "root" (
             float3[] extentsHint = [(-0.07083474, -1.5432137e-18, -0.59093505), (0.107463256, 0.54122144, 0.59457034)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_proc_dev_circuit_resistor09_display_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/proc_dev_circuit_resistor09/display_high/mesh/geo_modelling_proc_dev_circuit_resistor09_display_high_mesh.usd@
             )
             {
             }
@@ -69,7 +69,7 @@ def Xform "root" (
             float3[] extentsHint = [(-0.08521858, -2.096613e-18, -0.59182596), (0.10678013, 0.5414425, 0.59182596)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/pose/mesh/geo_modelling_proc_dev_circuit_resistor09_pose_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/proc_dev_circuit_resistor09/pose/mesh/geo_modelling_proc_dev_circuit_resistor09_pose_mesh.usd@
             )
             {
             }
@@ -84,7 +84,7 @@ def Xform "root" (
             float3[] extentsHint = [(-0.08521858, -2.096613e-18, -0.59182596), (0.10678013, 0.5414425, 0.59182596)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/render_high/mesh/geo_modelling_proc_dev_circuit_resistor09_render_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/proc_dev_circuit_resistor09/render_high/mesh/geo_modelling_proc_dev_circuit_resistor09_render_high_mesh.usd@
             )
             {
                 float3[] extentsHint = [(-0.08521858, -2.096613e-18, -0.59182596), (0.10678013, 0.5414425, 0.59182596)]
@@ -103,7 +103,7 @@ def Xform "root" (
                     }
 
                     def Xform "GEO_PROXY" (
-                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_proc_dev_circuit_resistor09_display_high_mesh.usd@
+                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/proc_dev_circuit_resistor09/display_high/mesh/geo_modelling_proc_dev_circuit_resistor09_display_high_mesh.usd@
                     )
                     {
                         vector3d[] extentsHint = [(-0.08521857857704163, -2.0966129260172253e-18, -0.5918259620666504), (0.10678012669086456, 0.5414425134658813, 0.5918259620666504)]

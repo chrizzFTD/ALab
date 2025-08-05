@@ -18,7 +18,7 @@ def Xform "root" (
             float3[] extentsHint = [(-1.3185596, -8.424038, -0.9211465), (1.3185596, 8.424036, 1.0665808)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/mesh/geo_modelling_tool_wrench_boxend04_base_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/tool_wrench_boxend04/base/mesh/geo_modelling_tool_wrench_boxend04_base_mesh.usd@
             )
             {
             }
@@ -34,7 +34,7 @@ def Xform "root" (
             float3[] extentsHint = [(-1.3185596, -8.424038, -0.9211465), (1.3185596, 8.424036, 1.0665808)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_high/mesh/geo_modelling_tool_wrench_boxend04_deform_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/tool_wrench_boxend04/deform_high/mesh/geo_modelling_tool_wrench_boxend04_deform_high_mesh.usd@
             )
             {
             }
@@ -47,7 +47,7 @@ def Xform "root" (
             float3[] extentsHint = [(-1.3159171, -8.421577, -0.9101157), (1.3132639, 8.41648, 1.0670897)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_tool_wrench_boxend04_display_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/tool_wrench_boxend04/display_high/mesh/geo_modelling_tool_wrench_boxend04_display_high_mesh.usd@
             )
             {
             }
@@ -69,7 +69,7 @@ def Xform "root" (
             float3[] extentsHint = [(-1.3185596, -8.424038, -0.9211465), (1.3185596, 8.424036, 1.0665808)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/pose/mesh/geo_modelling_tool_wrench_boxend04_pose_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/tool_wrench_boxend04/pose/mesh/geo_modelling_tool_wrench_boxend04_pose_mesh.usd@
             )
             {
             }
@@ -84,7 +84,7 @@ def Xform "root" (
             float3[] extentsHint = [(-1.3185596, -8.424038, -0.9211465), (1.3185596, 8.424036, 1.0665808)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/render_high/mesh/geo_modelling_tool_wrench_boxend04_render_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/tool_wrench_boxend04/render_high/mesh/geo_modelling_tool_wrench_boxend04_render_high_mesh.usd@
             )
             {
                 float3[] extentsHint = [(-1.3185596, -8.424038, -0.9211465), (1.3185596, 8.424036, 1.0665808)]
@@ -103,7 +103,7 @@ def Xform "root" (
                     }
 
                     def Xform "GEO_PROXY" (
-                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_tool_wrench_boxend04_display_high_mesh.usd@
+                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/tool_wrench_boxend04/display_high/mesh/geo_modelling_tool_wrench_boxend04_display_high_mesh.usd@
                     )
                     {
                         vector3d[] extentsHint = [(-1.3185596466064453, -8.42403793334961, -0.9211465120315552), (1.3185596466064453, 8.424036026000977, 1.0665807723999023)]

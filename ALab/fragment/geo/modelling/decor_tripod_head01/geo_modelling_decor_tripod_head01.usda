@@ -18,7 +18,7 @@ def Xform "root" (
             float3[] extentsHint = [(-2.8925567, 1.1920929e-7, -18.28358), (2.8925571, 7.330976, 3.9380853)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/mesh/geo_modelling_decor_tripod_head01_base_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/decor_tripod_head01/base/mesh/geo_modelling_decor_tripod_head01_base_mesh.usd@
             )
             {
             }
@@ -34,7 +34,7 @@ def Xform "root" (
             float3[] extentsHint = [(-2.8925567, 1.1920929e-7, -18.28358), (2.8925571, 7.330976, 3.9380853)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_high/mesh/geo_modelling_decor_tripod_head01_deform_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/decor_tripod_head01/deform_high/mesh/geo_modelling_decor_tripod_head01_deform_high_mesh.usd@
             )
             {
             }
@@ -47,7 +47,7 @@ def Xform "root" (
             float3[] extentsHint = [(-2.8843095, 1.1920929e-7, -18.283482), (2.88431, 7.3400135, 3.9330394)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_decor_tripod_head01_display_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/decor_tripod_head01/display_high/mesh/geo_modelling_decor_tripod_head01_display_high_mesh.usd@
             )
             {
             }
@@ -69,7 +69,7 @@ def Xform "root" (
             float3[] extentsHint = [(-2.8925567, 1.1920929e-7, -18.28358), (2.8925571, 7.330976, 3.9380853)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/pose/mesh/geo_modelling_decor_tripod_head01_pose_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/decor_tripod_head01/pose/mesh/geo_modelling_decor_tripod_head01_pose_mesh.usd@
             )
             {
             }
@@ -84,7 +84,7 @@ def Xform "root" (
             float3[] extentsHint = [(-2.8925567, 1.1920929e-7, -18.28358), (2.8925571, 7.330976, 3.9380853)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/render_high/mesh/geo_modelling_decor_tripod_head01_render_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/decor_tripod_head01/render_high/mesh/geo_modelling_decor_tripod_head01_render_high_mesh.usd@
             )
             {
                 float3[] extentsHint = [(-2.8925567, 1.1920929e-7, -18.28358), (2.8925571, 7.330976, 3.9380853)]
@@ -103,7 +103,7 @@ def Xform "root" (
                     }
 
                     def Xform "GEO_PROXY" (
-                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_decor_tripod_head01_display_high_mesh.usd@
+                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/decor_tripod_head01/display_high/mesh/geo_modelling_decor_tripod_head01_display_high_mesh.usd@
                     )
                     {
                         vector3d[] extentsHint = [(-2.892556667327881, 1.1920928955078125e-7, -18.283580780029297), (2.892557144165039, 7.3309760093688965, 3.9380853176116943)]
@@ -139,7 +139,7 @@ def Xform "root" (
             float3[] extentsHint = [(-2.8925567, -1.3140498, -18.312729), (2.8925571, 5.6703763, 3.3389778)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/shapes_high/mesh/geo_modelling_decor_tripod_head01_shapes_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/decor_tripod_head01/shapes_high/mesh/geo_modelling_decor_tripod_head01_shapes_high_mesh.usd@
             )
             {
             }

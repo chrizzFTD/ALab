@@ -18,7 +18,7 @@ def Xform "root" (
             float3[] extentsHint = [(-3.6442404, 0.00095415115, -3.017502), (3.0266953, 7.729743, 3.017502)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/mesh/geo_modelling_chemistry_beaker01_base_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/chemistry_beaker01/base/mesh/geo_modelling_chemistry_beaker01_base_mesh.usd@
             )
             {
             }
@@ -34,7 +34,7 @@ def Xform "root" (
             float3[] extentsHint = [(-3.6442404, 0.00095415115, -3.017502), (3.0266953, 7.729743, 3.017502)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_high/mesh/geo_modelling_chemistry_beaker01_deform_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/chemistry_beaker01/deform_high/mesh/geo_modelling_chemistry_beaker01_deform_high_mesh.usd@
             )
             {
             }
@@ -47,7 +47,7 @@ def Xform "root" (
             float3[] extentsHint = [(-3.6442404, 0.00095415115, -3.017502), (3.0266953, 7.729743, 3.017502)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_mid/mesh/geo_modelling_chemistry_beaker01_deform_mid_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/chemistry_beaker01/deform_mid/mesh/geo_modelling_chemistry_beaker01_deform_mid_mesh.usd@
             )
             {
             }
@@ -57,7 +57,7 @@ def Xform "root" (
             float3[] extentsHint = [(-3.42968, 0.0053114435, -2.805982), (2.807638, 7.5321918, 2.805982)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_chemistry_beaker01_display_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/chemistry_beaker01/display_high/mesh/geo_modelling_chemistry_beaker01_display_high_mesh.usd@
             )
             {
             }
@@ -82,7 +82,7 @@ def Xform "root" (
             float3[] extentsHint = [(-3.6442404, 0.00095415115, -3.017502), (3.0266953, 7.729743, 3.017502)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/pose/mesh/geo_modelling_chemistry_beaker01_pose_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/chemistry_beaker01/pose/mesh/geo_modelling_chemistry_beaker01_pose_mesh.usd@
             )
             {
             }
@@ -97,7 +97,7 @@ def Xform "root" (
             float3[] extentsHint = [(-3.6442404, 0.00095415115, -3.017502), (3.0266953, 7.729743, 3.017502)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/render_high/mesh/geo_modelling_chemistry_beaker01_render_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/chemistry_beaker01/render_high/mesh/geo_modelling_chemistry_beaker01_render_high_mesh.usd@
             )
             {
                 float3[] extentsHint = [(-3.6442404, 0.00095415115, -3.017502), (3.0266953, 7.729743, 3.017502)]
@@ -116,7 +116,7 @@ def Xform "root" (
                     }
 
                     def Xform "GEO_PROXY" (
-                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_chemistry_beaker01_display_high_mesh.usd@
+                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/chemistry_beaker01/display_high/mesh/geo_modelling_chemistry_beaker01_display_high_mesh.usd@
                     )
                     {
                         vector3d[] extentsHint = [(-3.644240379333496, 0.0009541511535644531, -3.0175020694732666), (3.0266952514648438, 7.729743003845215, 3.0175020694732666)]

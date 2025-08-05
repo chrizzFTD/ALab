@@ -18,7 +18,7 @@ def Xform "root" (
             float3[] extentsHint = [(-9.44441, -0.083391175, -14.800781), (7.7559843, 3.7672484, 13.208729)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/mesh/geo_modelling_tool_retro_plug01_base_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/tool_retro_plug01/base/mesh/geo_modelling_tool_retro_plug01_base_mesh.usd@
             )
             {
             }
@@ -34,7 +34,7 @@ def Xform "root" (
             float3[] extentsHint = [(-9.44441, -0.083391175, -14.800781), (7.7559843, 3.7672484, 13.208729)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_high/mesh/geo_modelling_tool_retro_plug01_deform_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/tool_retro_plug01/deform_high/mesh/geo_modelling_tool_retro_plug01_deform_high_mesh.usd@
             )
             {
             }
@@ -47,7 +47,7 @@ def Xform "root" (
             float3[] extentsHint = [(-9.451231, -0.053133037, -14.81718), (7.7510486, 3.741882, 13.201222)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_tool_retro_plug01_display_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/tool_retro_plug01/display_high/mesh/geo_modelling_tool_retro_plug01_display_high_mesh.usd@
             )
             {
             }
@@ -69,7 +69,7 @@ def Xform "root" (
             float3[] extentsHint = [(-9.44441, -0.083391175, -14.800781), (7.7559843, 3.7672484, 13.208729)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/pose/mesh/geo_modelling_tool_retro_plug01_pose_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/tool_retro_plug01/pose/mesh/geo_modelling_tool_retro_plug01_pose_mesh.usd@
             )
             {
             }
@@ -84,7 +84,7 @@ def Xform "root" (
             float3[] extentsHint = [(-9.44441, -0.083391175, -14.800781), (7.7559843, 3.7672484, 13.208729)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/render_high/mesh/geo_modelling_tool_retro_plug01_render_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/tool_retro_plug01/render_high/mesh/geo_modelling_tool_retro_plug01_render_high_mesh.usd@
             )
             {
                 float3[] extentsHint = [(-9.44441, -0.083391175, -14.800781), (7.7559843, 3.7672484, 13.208729)]
@@ -103,7 +103,7 @@ def Xform "root" (
                     }
 
                     def Xform "GEO_PROXY" (
-                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_tool_retro_plug01_display_high_mesh.usd@
+                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/tool_retro_plug01/display_high/mesh/geo_modelling_tool_retro_plug01_display_high_mesh.usd@
                     )
                     {
                         vector3d[] extentsHint = [(-9.44441032409668, -0.08339117467403412, -14.80078125), (7.755984306335449, 3.7672483921051025, 13.208728790283203)]

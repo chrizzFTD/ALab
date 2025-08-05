@@ -18,7 +18,7 @@ def Xform "root" (
             float3[] extentsHint = [(-1.5325662, 0.27397156, -1.5120919), (1.5325662, 1.2013137, 1.5120871)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/mesh/geo_modelling_decor_bottle_cap01_base_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/decor_bottle_cap01/base/mesh/geo_modelling_decor_bottle_cap01_base_mesh.usd@
             )
             {
             }
@@ -34,7 +34,7 @@ def Xform "root" (
             float3[] extentsHint = [(-1.5325662, 0.27397156, -1.5120919), (1.5325662, 1.2013137, 1.5120871)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_high/mesh/geo_modelling_decor_bottle_cap01_deform_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/decor_bottle_cap01/deform_high/mesh/geo_modelling_decor_bottle_cap01_deform_high_mesh.usd@
             )
             {
             }
@@ -47,7 +47,7 @@ def Xform "root" (
             float3[] extentsHint = [(-1.4805152, 0.27258757, -1.512092), (1.5327064, 1.2030137, 1.5120871)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_decor_bottle_cap01_display_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/decor_bottle_cap01/display_high/mesh/geo_modelling_decor_bottle_cap01_display_high_mesh.usd@
             )
             {
             }
@@ -69,7 +69,7 @@ def Xform "root" (
             float3[] extentsHint = [(-1.5325662, 0.27397156, -1.5120919), (1.5325662, 1.2013137, 1.5120871)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/pose/mesh/geo_modelling_decor_bottle_cap01_pose_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/decor_bottle_cap01/pose/mesh/geo_modelling_decor_bottle_cap01_pose_mesh.usd@
             )
             {
             }
@@ -84,7 +84,7 @@ def Xform "root" (
             float3[] extentsHint = [(-1.5325662, 0.27397156, -1.5120919), (1.5325662, 1.2013137, 1.5120871)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/render_high/mesh/geo_modelling_decor_bottle_cap01_render_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/decor_bottle_cap01/render_high/mesh/geo_modelling_decor_bottle_cap01_render_high_mesh.usd@
             )
             {
                 float3[] extentsHint = [(-1.5325662, 0.27397156, -1.5120919), (1.5325662, 1.2013137, 1.5120871)]
@@ -103,7 +103,7 @@ def Xform "root" (
                     }
 
                     def Xform "GEO_PROXY" (
-                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_decor_bottle_cap01_display_high_mesh.usd@
+                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/decor_bottle_cap01/display_high/mesh/geo_modelling_decor_bottle_cap01_display_high_mesh.usd@
                     )
                     {
                         vector3d[] extentsHint = [(-1.5325661897659302, 0.2739715576171875, -1.512091875076294), (1.5325661897659302, 1.2013137340545654, 1.512087106704712)]

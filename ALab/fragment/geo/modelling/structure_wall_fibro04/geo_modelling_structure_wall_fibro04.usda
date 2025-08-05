@@ -18,7 +18,7 @@ def Xform "root" (
             float3[] extentsHint = [(-12.232605, 0.123535156, -0.82528687), (170.31268, 223.76834, 206.5434)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/mesh/geo_modelling_structure_wall_fibro04_base_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/structure_wall_fibro04/base/mesh/geo_modelling_structure_wall_fibro04_base_mesh.usd@
             )
             {
             }
@@ -34,7 +34,7 @@ def Xform "root" (
             float3[] extentsHint = [(-12.232605, 0.123535156, -0.82528687), (170.31268, 223.76834, 206.5434)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_high/mesh/geo_modelling_structure_wall_fibro04_deform_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/structure_wall_fibro04/deform_high/mesh/geo_modelling_structure_wall_fibro04_deform_high_mesh.usd@
             )
             {
             }
@@ -47,7 +47,7 @@ def Xform "root" (
             float3[] extentsHint = [(-112.77434, 0.123535156, -1.4446106), (112.77969, 223.76834, 1.4446106)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_mid/mesh/geo_modelling_structure_wall_fibro04_deform_mid_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/structure_wall_fibro04/deform_mid/mesh/geo_modelling_structure_wall_fibro04_deform_mid_mesh.usd@
             )
             {
             }
@@ -57,7 +57,7 @@ def Xform "root" (
             float3[] extentsHint = [(-12.232605, 0.11144805, -0.82528687), (170.30339, 223.76805, 206.5434)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_structure_wall_fibro04_display_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/structure_wall_fibro04/display_high/mesh/geo_modelling_structure_wall_fibro04_display_high_mesh.usd@
             )
             {
             }
@@ -82,7 +82,7 @@ def Xform "root" (
             float3[] extentsHint = [(-12.232605, 0.123535156, -0.82528687), (170.31268, 223.76834, 206.5434)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/pose/mesh/geo_modelling_structure_wall_fibro04_pose_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/structure_wall_fibro04/pose/mesh/geo_modelling_structure_wall_fibro04_pose_mesh.usd@
             )
             {
             }
@@ -97,7 +97,7 @@ def Xform "root" (
             float3[] extentsHint = [(-12.232605, 0.123535156, -0.82528687), (170.31268, 223.76834, 206.5434)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/render_high/mesh/geo_modelling_structure_wall_fibro04_render_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/structure_wall_fibro04/render_high/mesh/geo_modelling_structure_wall_fibro04_render_high_mesh.usd@
             )
             {
                 float3[] extentsHint = [(-12.232605, 0.123535156, -0.82528687), (170.31268, 223.76834, 206.5434)]
@@ -116,7 +116,7 @@ def Xform "root" (
                     }
 
                     def Xform "GEO_PROXY" (
-                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_structure_wall_fibro04_display_high_mesh.usd@
+                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/structure_wall_fibro04/display_high/mesh/geo_modelling_structure_wall_fibro04_display_high_mesh.usd@
                     )
                     {
                         vector3d[] extentsHint = [(-12.23260498046875, 0.12353515625, -0.825286865234375), (170.31268310546875, 223.76834106445312, 206.54339599609375)]

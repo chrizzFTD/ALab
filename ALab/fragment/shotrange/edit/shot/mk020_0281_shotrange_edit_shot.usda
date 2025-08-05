@@ -13,7 +13,7 @@ def "root" (
     variantSet "range" = {
         "tight" {
             over "framerange" (
-                prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/tight/data/mk020_0281_shotrange_edit_shot_tight_data.usda@
+                prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/shotrange/edit/shot/tight/data/mk020_0281_shotrange_edit_shot_tight_data.usda@
             )
             {
             }

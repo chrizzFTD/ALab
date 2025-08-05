@@ -18,7 +18,7 @@ def Xform "root" (
             float3[] extentsHint = [(-1.2985706, -8.366427, -1.3576001), (1.2985725, 11.137209, 1.3576001)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/mesh/geo_modelling_tool_chisel03_base_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/tool_chisel03/base/mesh/geo_modelling_tool_chisel03_base_mesh.usd@
             )
             {
             }
@@ -34,7 +34,7 @@ def Xform "root" (
             float3[] extentsHint = [(-1.2985706, -8.366427, -1.3576001), (1.2985725, 11.137209, 1.3576001)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_high/mesh/geo_modelling_tool_chisel03_deform_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/tool_chisel03/deform_high/mesh/geo_modelling_tool_chisel03_deform_high_mesh.usd@
             )
             {
             }
@@ -47,7 +47,7 @@ def Xform "root" (
             float3[] extentsHint = [(-1.2985706, -8.3313465, -1.346705), (1.2985725, 11.107431, 1.331322)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_tool_chisel03_display_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/tool_chisel03/display_high/mesh/geo_modelling_tool_chisel03_display_high_mesh.usd@
             )
             {
             }
@@ -69,7 +69,7 @@ def Xform "root" (
             float3[] extentsHint = [(-1.2985706, -8.366427, -1.3576001), (1.2985725, 11.137209, 1.3576001)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/pose/mesh/geo_modelling_tool_chisel03_pose_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/tool_chisel03/pose/mesh/geo_modelling_tool_chisel03_pose_mesh.usd@
             )
             {
             }
@@ -84,7 +84,7 @@ def Xform "root" (
             float3[] extentsHint = [(-1.2985706, -8.366427, -1.3576001), (1.2985725, 11.137209, 1.3576001)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/render_high/mesh/geo_modelling_tool_chisel03_render_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/tool_chisel03/render_high/mesh/geo_modelling_tool_chisel03_render_high_mesh.usd@
             )
             {
                 float3[] extentsHint = [(-1.2985706, -8.366427, -1.3576001), (1.2985725, 11.137209, 1.3576001)]
@@ -103,7 +103,7 @@ def Xform "root" (
                     }
 
                     def Xform "GEO_PROXY" (
-                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_tool_chisel03_display_high_mesh.usd@
+                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/tool_chisel03/display_high/mesh/geo_modelling_tool_chisel03_display_high_mesh.usd@
                     )
                     {
                         vector3d[] extentsHint = [(-1.2985706329345703, -8.366427421569824, -1.3576000928878784), (1.2985725402832031, 11.137208938598633, 1.3576000928878784)]

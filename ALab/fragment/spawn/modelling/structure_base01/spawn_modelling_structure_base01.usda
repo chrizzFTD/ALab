@@ -18,7 +18,7 @@ def "root" (
 
         }
         "render" (
-            payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/groom/spawn_modelling_structure_base01_base_groom/groom.usda@
+            payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/spawn/modelling/structure_base01/base/groom/spawn_modelling_structure_base01_base_groom/groom.usda@
         ) {
 
         }

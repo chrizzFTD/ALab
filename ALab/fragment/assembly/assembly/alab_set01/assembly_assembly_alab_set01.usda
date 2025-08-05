@@ -61,7 +61,7 @@ def Xform "root" (
                 assettype = "standin"
             )
             {
-                custom asset identifier = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/standin/data/assembly_assembly_alab_set01_standin_data@
+                custom asset identifier = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/assembly/assembly/alab_set01/standin/data/assembly_assembly_alab_set01_standin_data@
             }
 
         }

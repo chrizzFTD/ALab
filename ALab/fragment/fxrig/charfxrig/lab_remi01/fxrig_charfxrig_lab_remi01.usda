@@ -15,7 +15,7 @@ def "root" (
     }
     variantSet "simrig" = {
         "global" {
-            asset rig = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/rig/fxrig_charfxrig_lab_remi01_base_rig.otl@
+            asset rig = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/fxrig/charfxrig/lab_remi01/base/rig/fxrig_charfxrig_lab_remi01_base_rig.otl@
 
         }
     }

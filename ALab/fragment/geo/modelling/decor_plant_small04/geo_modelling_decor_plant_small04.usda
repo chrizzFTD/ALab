@@ -18,7 +18,7 @@ def Xform "root" (
             float3[] extentsHint = [(-7.506881, 0.11962271, -7.7503395), (10.106309, 14.7991295, 8.091832)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/mesh/geo_modelling_decor_plant_small04_base_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/decor_plant_small04/base/mesh/geo_modelling_decor_plant_small04_base_mesh.usd@
             )
             {
             }
@@ -34,7 +34,7 @@ def Xform "root" (
             float3[] extentsHint = [(-7.506881, 0.11962271, -7.7503395), (10.106309, 14.7991295, 8.091832)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_high/mesh/geo_modelling_decor_plant_small04_deform_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/decor_plant_small04/deform_high/mesh/geo_modelling_decor_plant_small04_deform_high_mesh.usd@
             )
             {
             }
@@ -47,7 +47,7 @@ def Xform "root" (
             float3[] extentsHint = [(-7.491869, 0.45096064, -7.7518077), (10.1056, 14.7991295, 8.060932)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_decor_plant_small04_display_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/decor_plant_small04/display_high/mesh/geo_modelling_decor_plant_small04_display_high_mesh.usd@
             )
             {
             }
@@ -69,7 +69,7 @@ def Xform "root" (
             float3[] extentsHint = [(-7.506881, 0.11962271, -7.7503395), (10.106309, 14.7991295, 8.091832)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/pose/mesh/geo_modelling_decor_plant_small04_pose_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/decor_plant_small04/pose/mesh/geo_modelling_decor_plant_small04_pose_mesh.usd@
             )
             {
             }
@@ -84,7 +84,7 @@ def Xform "root" (
             float3[] extentsHint = [(-7.506881, 0.11962271, -7.7503395), (10.106309, 14.7991295, 8.091832)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/render_high/mesh/geo_modelling_decor_plant_small04_render_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/decor_plant_small04/render_high/mesh/geo_modelling_decor_plant_small04_render_high_mesh.usd@
             )
             {
                 float3[] extentsHint = [(-7.506881, 0.11962271, -7.7503395), (10.106309, 14.7991295, 8.091832)]
@@ -103,7 +103,7 @@ def Xform "root" (
                     }
 
                     def Xform "GEO_PROXY" (
-                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_decor_plant_small04_display_high_mesh.usd@
+                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/decor_plant_small04/display_high/mesh/geo_modelling_decor_plant_small04_display_high_mesh.usd@
                     )
                     {
                         vector3d[] extentsHint = [(-7.506881237030029, 0.11962270736694336, -7.750339508056641), (10.106308937072754, 14.799129486083984, 8.091832160949707)]

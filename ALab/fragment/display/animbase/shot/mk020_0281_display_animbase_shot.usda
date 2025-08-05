@@ -9,7 +9,7 @@ def "root" (
 {
     variantSet "display" = {
         "animbase" (
-            prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/data/mk020_0281_display_animbase_shot_base_data.usda@
+            prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/display/animbase/shot/base/data/mk020_0281_display_animbase_shot_base_data.usda@
         ) {
 
         }

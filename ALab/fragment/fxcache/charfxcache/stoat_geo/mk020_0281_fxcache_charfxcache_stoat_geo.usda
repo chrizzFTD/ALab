@@ -2,7 +2,7 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/cache/mk020_0281_fxcache_charfxcache_stoat_geo_base_cache/cache.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/fxcache/charfxcache/stoat_geo/base/cache/mk020_0281_fxcache_charfxcache_stoat_geo_base_cache/cache.usda@
     ]
 )
 

@@ -18,7 +18,7 @@ def Xform "root" (
             float3[] extentsHint = [(-4.941572, 0.0012729168, -10.871852), (5.8818436, 0.19707417, 7.8363957)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/mesh/geo_modelling_stationary_set_square02_base_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/stationary_set_square02/base/mesh/geo_modelling_stationary_set_square02_base_mesh.usd@
             )
             {
             }
@@ -34,7 +34,7 @@ def Xform "root" (
             float3[] extentsHint = [(-4.941572, 0.0012729168, -10.871852), (5.8818436, 0.19707417, 7.8363957)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_high/mesh/geo_modelling_stationary_set_square02_deform_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/stationary_set_square02/deform_high/mesh/geo_modelling_stationary_set_square02_deform_high_mesh.usd@
             )
             {
             }
@@ -47,7 +47,7 @@ def Xform "root" (
             float3[] extentsHint = [(-4.941572, 0.0012729168, -10.871852), (5.881843, 0.19707417, 7.8363957)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_mid/mesh/geo_modelling_stationary_set_square02_deform_mid_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/stationary_set_square02/deform_mid/mesh/geo_modelling_stationary_set_square02_deform_mid_mesh.usd@
             )
             {
             }
@@ -57,7 +57,7 @@ def Xform "root" (
             float3[] extentsHint = [(-4.929132, 0.0012729169, -10.409378), (5.5915275, 0.19707417, 7.8321)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_stationary_set_square02_display_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/stationary_set_square02/display_high/mesh/geo_modelling_stationary_set_square02_display_high_mesh.usd@
             )
             {
             }
@@ -82,7 +82,7 @@ def Xform "root" (
             float3[] extentsHint = [(-4.941572, 0.0012729168, -10.871852), (5.8818436, 0.19707417, 7.8363957)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/pose/mesh/geo_modelling_stationary_set_square02_pose_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/stationary_set_square02/pose/mesh/geo_modelling_stationary_set_square02_pose_mesh.usd@
             )
             {
             }
@@ -97,7 +97,7 @@ def Xform "root" (
             float3[] extentsHint = [(-4.941572, 0.0012729168, -10.871852), (5.8818436, 0.19707417, 7.8363957)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/render_high/mesh/geo_modelling_stationary_set_square02_render_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/stationary_set_square02/render_high/mesh/geo_modelling_stationary_set_square02_render_high_mesh.usd@
             )
             {
                 float3[] extentsHint = [(-4.941572, 0.0012729168, -10.871852), (5.8818436, 0.19707417, 7.8363957)]
@@ -116,7 +116,7 @@ def Xform "root" (
                     }
 
                     def Xform "GEO_PROXY" (
-                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_stationary_set_square02_display_high_mesh.usd@
+                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/stationary_set_square02/display_high/mesh/geo_modelling_stationary_set_square02_display_high_mesh.usd@
                     )
                     {
                         vector3d[] extentsHint = [(-4.941572189331055, 0.0012729167938232422, -10.871851921081543), (5.881843566894531, 0.19707417488098145, 7.836395740509033)]

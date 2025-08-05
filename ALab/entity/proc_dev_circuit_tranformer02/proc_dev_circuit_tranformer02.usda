@@ -2,9 +2,9 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/surfacing/proc_dev_circuit_tranformer02_surfacing.usda@,
-        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/modelling/proc_dev_circuit_tranformer02_modelling.usda@,
-        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/preview/proc_dev_circuit_tranformer02_preview.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/proc_dev_circuit_tranformer02/surfacing/proc_dev_circuit_tranformer02_surfacing.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/proc_dev_circuit_tranformer02/modelling/proc_dev_circuit_tranformer02_modelling.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/proc_dev_circuit_tranformer02/preview/proc_dev_circuit_tranformer02_preview.usda@
     ]
     upAxis = "Y"
 )

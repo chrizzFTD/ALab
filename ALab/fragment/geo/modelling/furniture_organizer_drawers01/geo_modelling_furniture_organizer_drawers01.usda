@@ -18,7 +18,7 @@ def Xform "root" (
             float3[] extentsHint = [(-15.532435, -0.0776463, -24.051502), (15.532436, 35.036404, 25.668152)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/mesh/geo_modelling_furniture_organizer_drawers01_base_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/furniture_organizer_drawers01/base/mesh/geo_modelling_furniture_organizer_drawers01_base_mesh.usd@
             )
             {
             }
@@ -34,7 +34,7 @@ def Xform "root" (
             float3[] extentsHint = [(-15.532435, -0.0776463, -24.051502), (15.532436, 35.036404, 25.668152)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_high/mesh/geo_modelling_furniture_organizer_drawers01_deform_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/furniture_organizer_drawers01/deform_high/mesh/geo_modelling_furniture_organizer_drawers01_deform_high_mesh.usd@
             )
             {
             }
@@ -47,7 +47,7 @@ def Xform "root" (
             float3[] extentsHint = [(-15.519154, -0.077263035, -23.854492), (15.532039, 35.02193, 25.6675)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_furniture_organizer_drawers01_display_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/furniture_organizer_drawers01/display_high/mesh/geo_modelling_furniture_organizer_drawers01_display_high_mesh.usd@
             )
             {
             }
@@ -69,7 +69,7 @@ def Xform "root" (
             float3[] extentsHint = [(-15.532435, -0.0776463, -24.051502), (15.532436, 35.036404, 25.668152)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/pose/mesh/geo_modelling_furniture_organizer_drawers01_pose_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/furniture_organizer_drawers01/pose/mesh/geo_modelling_furniture_organizer_drawers01_pose_mesh.usd@
             )
             {
             }
@@ -84,7 +84,7 @@ def Xform "root" (
             float3[] extentsHint = [(-15.532435, -0.0776463, -24.051502), (15.532436, 35.036404, 25.668152)]
 
             over "GEO" (
-                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/render_high/mesh/geo_modelling_furniture_organizer_drawers01_render_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/furniture_organizer_drawers01/render_high/mesh/geo_modelling_furniture_organizer_drawers01_render_high_mesh.usd@
             )
             {
                 float3[] extentsHint = [(-15.532435, -0.0776463, -24.051502), (15.532436, 35.036404, 25.668152)]
@@ -103,7 +103,7 @@ def Xform "root" (
                     }
 
                     def Xform "GEO_PROXY" (
-                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_furniture_organizer_drawers01_display_high_mesh.usd@
+                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/furniture_organizer_drawers01/display_high/mesh/geo_modelling_furniture_organizer_drawers01_display_high_mesh.usd@
                     )
                     {
                         vector3d[] extentsHint = [(-15.532435417175293, -0.07764630019664764, -24.051502227783203), (15.53243637084961, 35.03640365600586, 25.66815185546875)]
