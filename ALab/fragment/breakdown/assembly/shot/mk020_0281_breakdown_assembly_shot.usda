@@ -12,7 +12,7 @@ def "root" (
             string ASSET_TYPE = "AL_entity"
             string label = "ENV"
         }
-        prepend references = @../../../../entity/alab_set01/alab_set01.usda@
+        prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/alab_set01/alab_set01.usda@
     )
     {
     }
@@ -22,7 +22,7 @@ def "root" (
             string ASSET_TYPE = "AL_entity"
             string label = "beast generic01 - blender_36_24"
         }
-        prepend references = @../../../../entity/test_beast_generic01/test_beast_generic01.usda@
+        prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/test_beast_generic01/test_beast_generic01.usda@
     )
     {
     }
@@ -31,7 +31,7 @@ def "root" (
         customData = {
             string ASSET_TYPE = "AL_entity"
         }
-        prepend references = @../../../../entity/dmp_skydome_alab01/dmp_skydome_alab01.usda@
+        prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/dmp_skydome_alab01/dmp_skydome_alab01.usda@
     )
     {
     }
@@ -41,7 +41,7 @@ def "root" (
             string ASSET_TYPE = "AL_entity"
             string label = "lab_remi01"
         }
-        prepend references = @../../../../entity/lab_remi01/lab_remi01.usda@
+        prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/lab_remi01/lab_remi01.usda@
     )
     {
     }
@@ -51,7 +51,7 @@ def "root" (
             string ASSET_TYPE = "AL_entity"
             string label = "stoat01"
         }
-        prepend references = @../../../../entity/stoat01/stoat01.usda@
+        prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/stoat01/stoat01.usda@
     )
     {
     }

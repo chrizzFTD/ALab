@@ -9,7 +9,7 @@ def "root"
         customData = {
             string ASSET_TYPE = "AL_fragment"
         }
-        prepend references = @../../../fragment/grip/lighting/zlt02_electronics_ham_equipment03/grip_lighting_zlt02_electronics_ham_equipment03.usda@
+        prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/grip/lighting/zlt02_electronics_ham_equipment03/grip_lighting_zlt02_electronics_ham_equipment03.usda@
     )
     {
     }

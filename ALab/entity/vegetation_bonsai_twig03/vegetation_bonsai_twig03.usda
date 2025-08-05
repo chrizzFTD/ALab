@@ -2,9 +2,9 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @surfacing/vegetation_bonsai_twig03_surfacing.usda@,
-        @modelling/vegetation_bonsai_twig03_modelling.usda@,
-        @preview/vegetation_bonsai_twig03_preview.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/surfacing/vegetation_bonsai_twig03_surfacing.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/modelling/vegetation_bonsai_twig03_modelling.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/preview/vegetation_bonsai_twig03_preview.usda@
     ]
     upAxis = "Y"
 )

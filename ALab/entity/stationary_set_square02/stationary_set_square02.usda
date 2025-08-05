@@ -2,9 +2,9 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @surfacing/stationary_set_square02_surfacing.usda@,
-        @modelling/stationary_set_square02_modelling.usda@,
-        @preview/stationary_set_square02_preview.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/surfacing/stationary_set_square02_surfacing.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/modelling/stationary_set_square02_modelling.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/preview/stationary_set_square02_preview.usda@
     ]
     upAxis = "Y"
 )

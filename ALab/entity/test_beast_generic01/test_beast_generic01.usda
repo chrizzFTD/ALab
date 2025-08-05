@@ -2,8 +2,8 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @rigging/test_beast_generic01_rigging.usda@,
-        @modelling/test_beast_generic01_modelling.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/rigging/test_beast_generic01_rigging.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/modelling/test_beast_generic01_modelling.usda@
     ]
     upAxis = "Y"
 )

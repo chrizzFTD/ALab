@@ -2,9 +2,9 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @surfacing/toy_box01_surfacing.usda@,
-        @modelling/toy_box01_modelling.usda@,
-        @preview/toy_box01_preview.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/surfacing/toy_box01_surfacing.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/modelling/toy_box01_modelling.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/preview/toy_box01_preview.usda@
     ]
     upAxis = "Y"
 )

@@ -4,7 +4,7 @@
 )
 
 def "root" (
-    prepend references = @../../../fragment/perfrig/rigging/test_beast_generic01/perfrig_rigging_test_beast_generic01.usda@
+    prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/perfrig/rigging/test_beast_generic01/perfrig_rigging_test_beast_generic01.usda@
 )
 {
 }

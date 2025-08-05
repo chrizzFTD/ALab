@@ -1,15 +1,15 @@
 #usda 1.0
 (
     endTimeCode = 1057
-    startTimeCode = 1004
     framesPerSecond = 24
     metersPerUnit = 0.01
-    timeCodesPerSecond = 24
+    startTimeCode = 1004
     subLayers = [
-    	@baked_procedurals/main.usda@,
-		@trailer_cameras/main.usda@,
-        @entity/mk020_0281/mk020_0281_light_pre_input.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/baked_procedurals/main.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/trailer_cameras/main.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/mk020_0281/mk020_0281_light_pre_input.usda@
     ]
+    timeCodesPerSecond = 24
     upAxis = "Y"
 )
 

@@ -2,9 +2,9 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @surfacing/electronics_cabling05_surfacing.usda@,
-        @modelling/electronics_cabling05_modelling.usda@,
-        @preview/electronics_cabling05_preview.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/surfacing/electronics_cabling05_surfacing.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/modelling/electronics_cabling05_modelling.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/preview/electronics_cabling05_preview.usda@
     ]
     upAxis = "Y"
 )

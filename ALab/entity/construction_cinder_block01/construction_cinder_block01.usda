@@ -2,9 +2,9 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @surfacing/construction_cinder_block01_surfacing.usda@,
-        @modelling/construction_cinder_block01_modelling.usda@,
-        @preview/construction_cinder_block01_preview.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/surfacing/construction_cinder_block01_surfacing.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/modelling/construction_cinder_block01_modelling.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/preview/construction_cinder_block01_preview.usda@
     ]
     upAxis = "Y"
 )

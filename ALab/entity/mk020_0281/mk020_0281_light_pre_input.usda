@@ -2,14 +2,14 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @lighting/mk020_0281_lighting.usda@,
-        @fx/mk020_0281_fx.usda@,
-        @crowd/mk020_0281_crowd.usda@,
-        @charfxcache/mk020_0281_charfxcache.usda@,
-        @animation/mk020_0281_animation.usda@,
-        @layout/mk020_0281_layout.usda@,
-        @assembly/mk020_0281_assembly.usda@,
-        @edit/mk020_0281_edit.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/lighting/mk020_0281_lighting.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fx/mk020_0281_fx.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/crowd/mk020_0281_crowd.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/charfxcache/mk020_0281_charfxcache.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/animation/mk020_0281_animation.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/layout/mk020_0281_layout.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/assembly/mk020_0281_assembly.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/edit/mk020_0281_edit.usda@
     ]
     upAxis = "Y"
 )

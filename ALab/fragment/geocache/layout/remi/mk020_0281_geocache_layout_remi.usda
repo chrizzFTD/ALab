@@ -4,7 +4,7 @@
 )
 
 over "root" (
-    prepend references = @render_high/cache/mk020_0281_geocache_layout_remi_render_high_cache/cache.usda@
+    prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/render_high/cache/mk020_0281_geocache_layout_remi_render_high_cache/cache.usda@
     variants = {
         string geo_vis = "default"
         string geocache = "animbase_render_high"

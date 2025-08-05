@@ -5,8 +5,8 @@
 
 def "root" (
     prepend references = [
-        @../../../fragment/look/surfacing/decor_tennis_ball01/look_surfacing_decor_tennis_ball01.usda@,
-        @../../../fragment/alfro/surfacing/decor_tennis_ball01/alfro_surfacing_decor_tennis_ball01.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/look/surfacing/decor_tennis_ball01/look_surfacing_decor_tennis_ball01.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/alfro/surfacing/decor_tennis_ball01/alfro_surfacing_decor_tennis_ball01.usda@
     ]
 )
 {

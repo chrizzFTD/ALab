@@ -2,9 +2,9 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @surfacing/electronics_tesla_coil01_surfacing.usda@,
-        @modelling/electronics_tesla_coil01_modelling.usda@,
-        @preview/electronics_tesla_coil01_preview.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/surfacing/electronics_tesla_coil01_surfacing.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/modelling/electronics_tesla_coil01_modelling.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/preview/electronics_tesla_coil01_preview.usda@
     ]
     upAxis = "Y"
 )

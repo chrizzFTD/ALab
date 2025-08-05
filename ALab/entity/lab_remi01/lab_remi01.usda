@@ -2,9 +2,9 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @charfxrig/lab_remi01_charfxrig.usda@,
-        @rigging/lab_remi01_rigging.usda@,
-        @assembly/lab_remi01_assembly.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/charfxrig/lab_remi01_charfxrig.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/rigging/lab_remi01_rigging.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/assembly/lab_remi01_assembly.usda@
     ]
     upAxis = "Y"
 )

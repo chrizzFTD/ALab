@@ -4,7 +4,7 @@
 )
 
 def "root" (
-    prepend references = @../../../fragment/look/surfacing/chemistry_beaker_stand01/look_surfacing_chemistry_beaker_stand01.usda@
+    prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/look/surfacing/chemistry_beaker_stand01/look_surfacing_chemistry_beaker_stand01.usda@
 )
 {
 }

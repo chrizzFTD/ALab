@@ -18,7 +18,7 @@ def Xform "root" (
             float3[] extentsHint = [(-7.8314037, 4.7683716e-7, -13.339353), (7.831403, 50.03335, 13.339353)]
 
             over "GEO" (
-                payload = @base/mesh/geo_modelling_tool_vice01_base_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/mesh/geo_modelling_tool_vice01_base_mesh.usd@
             )
             {
             }
@@ -34,7 +34,7 @@ def Xform "root" (
             float3[] extentsHint = [(-7.8314037, 4.7683716e-7, -13.339353), (7.831403, 50.03335, 13.339353)]
 
             over "GEO" (
-                payload = @deform_high/mesh/geo_modelling_tool_vice01_deform_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_high/mesh/geo_modelling_tool_vice01_deform_high_mesh.usd@
             )
             {
             }
@@ -47,7 +47,7 @@ def Xform "root" (
             float3[] extentsHint = [(-7.814787, -0.019419942, -13.339353), (7.8235807, 50.029522, 13.349917)]
 
             over "GEO" (
-                payload = @display_high/mesh/geo_modelling_tool_vice01_display_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_tool_vice01_display_high_mesh.usd@
             )
             {
             }
@@ -69,7 +69,7 @@ def Xform "root" (
             float3[] extentsHint = [(-7.8314037, 4.7683716e-7, -13.339353), (7.831403, 50.03335, 13.339353)]
 
             over "GEO" (
-                payload = @pose/mesh/geo_modelling_tool_vice01_pose_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/pose/mesh/geo_modelling_tool_vice01_pose_mesh.usd@
             )
             {
             }
@@ -84,7 +84,7 @@ def Xform "root" (
             float3[] extentsHint = [(-7.8314037, 4.7683716e-7, -13.339353), (7.831403, 50.03335, 13.339353)]
 
             over "GEO" (
-                payload = @render_high/mesh/geo_modelling_tool_vice01_render_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/render_high/mesh/geo_modelling_tool_vice01_render_high_mesh.usd@
             )
             {
                 float3[] extentsHint = [(-7.8314037, 4.7683716e-7, -13.339353), (7.831403, 50.03335, 13.339353)]
@@ -103,7 +103,7 @@ def Xform "root" (
                     }
 
                     def Xform "GEO_PROXY" (
-                        payload = @display_high/mesh/geo_modelling_tool_vice01_display_high_mesh.usd@
+                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_tool_vice01_display_high_mesh.usd@
                     )
                     {
                         vector3d[] extentsHint = [(-7.831403732299805, 4.76837158203125e-7, -13.33935260772705), (7.831402778625488, 50.03335189819336, 13.33935260772705)]

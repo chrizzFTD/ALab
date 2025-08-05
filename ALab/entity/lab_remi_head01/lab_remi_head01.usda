@@ -2,9 +2,9 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @surfacing/lab_remi_head01_surfacing.usda@,
-        @modelling/lab_remi_head01_modelling.usda@,
-        @preview/lab_remi_head01_preview.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/surfacing/lab_remi_head01_surfacing.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/modelling/lab_remi_head01_modelling.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/preview/lab_remi_head01_preview.usda@
     ]
     upAxis = "Y"
 )

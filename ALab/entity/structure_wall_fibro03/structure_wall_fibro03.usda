@@ -2,9 +2,9 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @surfacing/structure_wall_fibro03_surfacing.usda@,
-        @modelling/structure_wall_fibro03_modelling.usda@,
-        @preview/structure_wall_fibro03_preview.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/surfacing/structure_wall_fibro03_surfacing.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/modelling/structure_wall_fibro03_modelling.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/preview/structure_wall_fibro03_preview.usda@
     ]
     upAxis = "Y"
 )

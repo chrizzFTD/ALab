@@ -4,7 +4,7 @@
 )
 
 def "root" (
-    prepend references = @../../../fragment/assembly/layout/shot/mk020_0281_assembly_layout_shot.usda@
+    prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/assembly/layout/shot/mk020_0281_assembly_layout_shot.usda@
 )
 {
     def "blob_layout_shot" (
@@ -19,7 +19,7 @@ def "root" (
         customData = {
             string ASSET_TYPE = "AL_fragment"
         }
-        prepend references = @../../../fragment/cameracache/layout/camera01/mk020_0281_cameracache_layout_camera01.usda@
+        prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/cameracache/layout/camera01/mk020_0281_cameracache_layout_camera01.usda@
     )
     {
     }
@@ -36,7 +36,7 @@ def "root" (
         customData = {
             string ASSET_TYPE = "AL_fragment"
         }
-        prepend references = @../../../fragment/geocache/layout/remi/mk020_0281_geocache_layout_remi.usda@
+        prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geocache/layout/remi/mk020_0281_geocache_layout_remi.usda@
     )
     {
     }
@@ -45,7 +45,7 @@ def "root" (
         customData = {
             string ASSET_TYPE = "AL_fragment"
         }
-        prepend references = @../../../fragment/geocache/layout/stoat/mk020_0281_geocache_layout_stoat.usda@
+        prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geocache/layout/stoat/mk020_0281_geocache_layout_stoat.usda@
     )
     {
     }

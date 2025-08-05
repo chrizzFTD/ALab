@@ -2,9 +2,9 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @surfacing/chemistry_bottle02_surfacing.usda@,
-        @modelling/chemistry_bottle02_modelling.usda@,
-        @preview/chemistry_bottle02_preview.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/surfacing/chemistry_bottle02_surfacing.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/modelling/chemistry_bottle02_modelling.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/preview/chemistry_bottle02_preview.usda@
     ]
     upAxis = "Y"
 )

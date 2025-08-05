@@ -5,8 +5,8 @@
 
 def "root" (
     prepend references = [
-        @../../../fragment/look/surfacing/furniture_lawn_chair02/look_surfacing_furniture_lawn_chair02.usda@,
-        @../../../fragment/weave/surfacing/furniture_lawn_chair02/weave_surfacing_furniture_lawn_chair02.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/look/surfacing/furniture_lawn_chair02/look_surfacing_furniture_lawn_chair02.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/weave/surfacing/furniture_lawn_chair02/weave_surfacing_furniture_lawn_chair02.usda@
     ]
 )
 {

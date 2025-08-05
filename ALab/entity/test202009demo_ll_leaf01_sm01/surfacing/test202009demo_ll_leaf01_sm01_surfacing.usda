@@ -15,7 +15,7 @@ def Scope "root" (
             customData = {
                 string ASSET_TYPE = "AL_fragment"
             }
-            prepend references = @../../../fragment/look/surfacing/test202009demo_ll_leaf01_sm01/look_surfacing_test202009demo_ll_leaf01_sm01.usda@
+            prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/look/surfacing/test202009demo_ll_leaf01_sm01/look_surfacing_test202009demo_ll_leaf01_sm01.usda@
         ) {
 
         }

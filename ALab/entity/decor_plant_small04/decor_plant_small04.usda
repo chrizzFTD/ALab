@@ -2,9 +2,9 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @surfacing/decor_plant_small04_surfacing.usda@,
-        @modelling/decor_plant_small04_modelling.usda@,
-        @preview/decor_plant_small04_preview.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/surfacing/decor_plant_small04_surfacing.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/modelling/decor_plant_small04_modelling.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/preview/decor_plant_small04_preview.usda@
     ]
     upAxis = "Y"
 )

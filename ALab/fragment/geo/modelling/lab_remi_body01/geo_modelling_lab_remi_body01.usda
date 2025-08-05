@@ -18,7 +18,7 @@ def Xform "root" (
             float3[] extentsHint = [(-3.4215913, -0.41767412, -30.705841), (3.9799392, 20.488525, 9.386633)]
 
             over "GEO" (
-                payload = @base/mesh/geo_modelling_lab_remi_body01_base_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/mesh/geo_modelling_lab_remi_body01_base_mesh.usd@
             )
             {
             }
@@ -34,7 +34,7 @@ def Xform "root" (
             float3[] extentsHint = [(-3.4215913, -0.41767412, -30.705841), (3.9799392, 20.488525, 9.386633)]
 
             over "GEO" (
-                payload = @deform_high/mesh/geo_modelling_lab_remi_body01_deform_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_high/mesh/geo_modelling_lab_remi_body01_deform_high_mesh.usd@
             )
             {
             }
@@ -47,7 +47,7 @@ def Xform "root" (
             float3[] extentsHint = [(-3.4223926, -0.4251184, -30.704948), (3.974361, 20.484655, 9.386633)]
 
             over "GEO" (
-                payload = @display_high/mesh/geo_modelling_lab_remi_body01_display_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_lab_remi_body01_display_high_mesh.usd@
             )
             {
             }
@@ -69,7 +69,7 @@ def Xform "root" (
             float3[] extentsHint = [(-3.4215913, -0.41767412, -30.705841), (3.9799392, 20.488525, 9.386633)]
 
             over "GEO" (
-                payload = @pose/mesh/geo_modelling_lab_remi_body01_pose_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/pose/mesh/geo_modelling_lab_remi_body01_pose_mesh.usd@
             )
             {
             }
@@ -84,7 +84,7 @@ def Xform "root" (
             float3[] extentsHint = [(-3.4215913, -0.41767412, -30.705841), (3.9799392, 20.488525, 9.386633)]
 
             over "GEO" (
-                payload = @render_high/mesh/geo_modelling_lab_remi_body01_render_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/render_high/mesh/geo_modelling_lab_remi_body01_render_high_mesh.usd@
             )
             {
                 float3[] extentsHint = [(-3.4215913, -0.41767412, -30.705841), (3.9799392, 20.488525, 9.386633)]
@@ -103,7 +103,7 @@ def Xform "root" (
                     }
 
                     def Xform "GEO_PROXY" (
-                        payload = @display_high/mesh/geo_modelling_lab_remi_body01_display_high_mesh.usd@
+                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_lab_remi_body01_display_high_mesh.usd@
                     )
                     {
                         vector3d[] extentsHint = [(-3.421591281890869, -0.41767412424087524, -30.705841064453125), (3.9799392223358154, 20.488525390625, 9.386632919311523)]

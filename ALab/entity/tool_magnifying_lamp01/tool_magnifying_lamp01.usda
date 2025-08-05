@@ -2,10 +2,10 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @lighting/tool_magnifying_lamp01_lighting.usda@,
-        @surfacing/tool_magnifying_lamp01_surfacing.usda@,
-        @modelling/tool_magnifying_lamp01_modelling.usda@,
-        @preview/tool_magnifying_lamp01_preview.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/lighting/tool_magnifying_lamp01_lighting.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/surfacing/tool_magnifying_lamp01_surfacing.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/modelling/tool_magnifying_lamp01_modelling.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/preview/tool_magnifying_lamp01_preview.usda@
     ]
     upAxis = "Y"
 )

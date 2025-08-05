@@ -2,10 +2,10 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @lighting/toy_curly_surgery_lighting.usda@,
-        @surfacing/toy_curly_surgery_surfacing.usda@,
-        @modelling/toy_curly_surgery_modelling.usda@,
-        @preview/toy_curly_surgery_preview.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/lighting/toy_curly_surgery_lighting.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/surfacing/toy_curly_surgery_surfacing.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/modelling/toy_curly_surgery_modelling.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/preview/toy_curly_surgery_preview.usda@
     ]
     upAxis = "Y"
 )

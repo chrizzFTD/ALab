@@ -4,14 +4,14 @@
 )
 
 def "root" (
-    prepend references = @../../../fragment/display/animbase/shot/mk020_0281_display_animbase_shot.usda@
+    prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/display/animbase/shot/mk020_0281_display_animbase_shot.usda@
 )
 {
     over "camera01" (
         customData = {
             string ASSET_TYPE = "AL_fragment"
         }
-        prepend references = @../../../fragment/cameracache/animbase/camera01/mk020_0281_cameracache_animbase_camera01.usda@
+        prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/cameracache/animbase/camera01/mk020_0281_cameracache_animbase_camera01.usda@
     )
     {
     }
@@ -20,7 +20,7 @@ def "root" (
         customData = {
             string ASSET_TYPE = "AL_fragment"
         }
-        prepend references = @../../../fragment/geocache/animbase/remi/mk020_0281_geocache_animbase_remi.usda@
+        prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geocache/animbase/remi/mk020_0281_geocache_animbase_remi.usda@
     )
     {
     }
@@ -29,7 +29,7 @@ def "root" (
         customData = {
             string ASSET_TYPE = "AL_fragment"
         }
-        prepend references = @../../../fragment/geocache/animbase/stoat/mk020_0281_geocache_animbase_stoat.usda@
+        prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geocache/animbase/stoat/mk020_0281_geocache_animbase_stoat.usda@
     )
     {
     }

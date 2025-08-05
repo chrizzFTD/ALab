@@ -4,7 +4,7 @@
 )
 
 def "root" (
-    prepend references = @../../../fragment/camerageo/modelling/test_beast_generic01/camerageo_modelling_test_beast_generic01.usda@
+    prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/camerageo/modelling/test_beast_generic01/camerageo_modelling_test_beast_generic01.usda@
 )
 {
 }

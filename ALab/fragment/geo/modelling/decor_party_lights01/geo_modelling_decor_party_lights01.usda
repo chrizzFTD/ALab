@@ -18,7 +18,7 @@ def Xform "root" (
             float3[] extentsHint = [(230.86478, 101.31508, -10.477211), (314.17447, 222.98148, 104.0394)]
 
             over "GEO" (
-                payload = @base/mesh/geo_modelling_decor_party_lights01_base_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/mesh/geo_modelling_decor_party_lights01_base_mesh.usd@
             )
             {
             }
@@ -34,7 +34,7 @@ def Xform "root" (
             float3[] extentsHint = [(230.86478, 101.31508, -10.477211), (314.17447, 222.98148, 104.0394)]
 
             over "GEO" (
-                payload = @deform_high/mesh/geo_modelling_decor_party_lights01_deform_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_high/mesh/geo_modelling_decor_party_lights01_deform_high_mesh.usd@
             )
             {
             }
@@ -47,7 +47,7 @@ def Xform "root" (
             float3[] extentsHint = [(230.86847, 102.0146, -10.472607), (314.1305, 223.00908, 104.02885)]
 
             over "GEO" (
-                payload = @display_high/mesh/geo_modelling_decor_party_lights01_display_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_decor_party_lights01_display_high_mesh.usd@
             )
             {
             }
@@ -69,7 +69,7 @@ def Xform "root" (
             float3[] extentsHint = [(230.86478, 101.31508, -10.477211), (314.17447, 222.98148, 104.0394)]
 
             over "GEO" (
-                payload = @pose/mesh/geo_modelling_decor_party_lights01_pose_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/pose/mesh/geo_modelling_decor_party_lights01_pose_mesh.usd@
             )
             {
             }
@@ -84,7 +84,7 @@ def Xform "root" (
             float3[] extentsHint = [(230.86478, 101.31508, -10.477211), (314.17447, 222.98148, 104.0394)]
 
             over "GEO" (
-                payload = @render_high/mesh/geo_modelling_decor_party_lights01_render_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/render_high/mesh/geo_modelling_decor_party_lights01_render_high_mesh.usd@
             )
             {
                 float3[] extentsHint = [(230.86478, 101.31508, -10.477211), (314.17447, 222.98148, 104.0394)]
@@ -103,7 +103,7 @@ def Xform "root" (
                     }
 
                     def Xform "GEO_PROXY" (
-                        payload = @display_high/mesh/geo_modelling_decor_party_lights01_display_high_mesh.usd@
+                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_decor_party_lights01_display_high_mesh.usd@
                     )
                     {
                         vector3d[] extentsHint = [(230.86477661132812, 101.31507873535156, -10.477210998535156), (314.1744689941406, 222.98147583007812, 104.03939819335938)]

@@ -2,7 +2,7 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @assembly/lab_electronics01_assembly.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/assembly/lab_electronics01_assembly.usda@
     ]
     upAxis = "Y"
 )

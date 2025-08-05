@@ -4,7 +4,7 @@
 )
 
 over "root" (
-    prepend payload = @base/definition/mk020_0281_assembly_layout_shot_base_definition.usda@
+    prepend payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/definition/mk020_0281_assembly_layout_shot_base_definition.usda@
 )
 {
 }

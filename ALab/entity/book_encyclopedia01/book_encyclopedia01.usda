@@ -2,9 +2,9 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @surfacing/book_encyclopedia01_surfacing.usda@,
-        @modelling/book_encyclopedia01_modelling.usda@,
-        @preview/book_encyclopedia01_preview.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/surfacing/book_encyclopedia01_surfacing.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/modelling/book_encyclopedia01_modelling.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/preview/book_encyclopedia01_preview.usda@
     ]
     upAxis = "Y"
 )

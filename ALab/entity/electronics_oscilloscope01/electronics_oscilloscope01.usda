@@ -2,10 +2,10 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @lighting/electronics_oscilloscope01_lighting.usda@,
-        @surfacing/electronics_oscilloscope01_surfacing.usda@,
-        @modelling/electronics_oscilloscope01_modelling.usda@,
-        @preview/electronics_oscilloscope01_preview.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/lighting/electronics_oscilloscope01_lighting.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/surfacing/electronics_oscilloscope01_surfacing.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/modelling/electronics_oscilloscope01_modelling.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/preview/electronics_oscilloscope01_preview.usda@
     ]
     upAxis = "Y"
 )

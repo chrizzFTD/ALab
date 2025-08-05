@@ -2,9 +2,9 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @../../../fragment/fxcache/animfxcache/remi_geo/mk020_0281_fxcache_animfxcache_remi_geo.usda@,
-        @../../../fragment/fxcache/animfxcache/stoat_alfro/mk020_0281_fxcache_animfxcache_stoat_alfro.usda@,
-        @../../../fragment/fxcache/animfxcache/stoat_geo/mk020_0281_fxcache_animfxcache_stoat_geo.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/fxcache/animfxcache/remi_geo/mk020_0281_fxcache_animfxcache_remi_geo.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/fxcache/animfxcache/stoat_alfro/mk020_0281_fxcache_animfxcache_stoat_alfro.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/fxcache/animfxcache/stoat_geo/mk020_0281_fxcache_animfxcache_stoat_geo.usda@
     ]
 )
 

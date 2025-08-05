@@ -9,14 +9,14 @@ def Xform "root" (
 {
     def Xform "decor_sheets_inspiration01_0001" (
         instanceable = true
-        prepend references = @../../../../entity/decor_sheets_inspiration01/decor_sheets_inspiration01.usda@
+        prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/decor_sheets_inspiration01/decor_sheets_inspiration01.usda@
     )
     {
     }
 
     def Xform "decor_medical_screen01_0001" (
         instanceable = true
-        prepend references = @../../../../entity/decor_medical_screen01/decor_medical_screen01.usda@
+        prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/decor_medical_screen01/decor_medical_screen01.usda@
     )
     {
         float3 xformOp:rotateXYZ = (0, -85.038, 0)

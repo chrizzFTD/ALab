@@ -5,12 +5,12 @@
 
 def "root" (
     prepend references = [
-        @../../../fragment/audio/edit/audio/mk020_0281_audio_edit_audio.usda@,
-        @../../../fragment/audio/edit/mixdown/mk020_0281_audio_edit_mixdown.usda@,
-        @../../../fragment/audio/edit/dialogue/mk020_0281_audio_edit_dialogue.usda@,
-        @../../../fragment/audio/edit/effects/mk020_0281_audio_edit_effects.usda@,
-        @../../../fragment/audio/edit/music/mk020_0281_audio_edit_music.usda@,
-        @../../../fragment/shotrange/edit/shot/mk020_0281_shotrange_edit_shot.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/audio/edit/audio/mk020_0281_audio_edit_audio.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/audio/edit/mixdown/mk020_0281_audio_edit_mixdown.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/audio/edit/dialogue/mk020_0281_audio_edit_dialogue.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/audio/edit/effects/mk020_0281_audio_edit_effects.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/audio/edit/music/mk020_0281_audio_edit_music.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/shotrange/edit/shot/mk020_0281_shotrange_edit_shot.usda@
     ]
 )
 {

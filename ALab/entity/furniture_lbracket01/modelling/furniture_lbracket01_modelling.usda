@@ -4,7 +4,7 @@
 )
 
 def "root" (
-    prepend references = @../../../fragment/geo/modelling/furniture_lbracket01/geo_modelling_furniture_lbracket01.usda@
+    prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/furniture_lbracket01/geo_modelling_furniture_lbracket01.usda@
 )
 {
 }

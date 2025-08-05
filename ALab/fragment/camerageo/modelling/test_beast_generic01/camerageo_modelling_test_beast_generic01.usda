@@ -16,7 +16,7 @@ def Xform "root" (
     variantSet "geo" = {
         "base" {
             over "GEO" (
-                references = @base/mesh/camerageo_modelling_test_beast_generic01_base_mesh.usd@
+                references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/mesh/camerageo_modelling_test_beast_generic01_base_mesh.usd@
             )
             {
             }
@@ -30,7 +30,7 @@ def Xform "root" (
         }
         "deform_high" {
             over "GEO" (
-                references = @deform_high/mesh/camerageo_modelling_test_beast_generic01_deform_high_mesh.usd@
+                references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_high/mesh/camerageo_modelling_test_beast_generic01_deform_high_mesh.usd@
             )
             {
             }
@@ -41,7 +41,7 @@ def Xform "root" (
         }
         "deform_mid" {
             over "GEO" (
-                references = @deform_mid/mesh/camerageo_modelling_test_beast_generic01_deform_mid_mesh.usd@
+                references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_mid/mesh/camerageo_modelling_test_beast_generic01_deform_mid_mesh.usd@
             )
             {
             }
@@ -49,7 +49,7 @@ def Xform "root" (
         }
         "display_high" {
             over "GEO" (
-                references = @display_high/mesh/camerageo_modelling_test_beast_generic01_display_high_mesh.usd@
+                references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/camerageo_modelling_test_beast_generic01_display_high_mesh.usd@
             )
             {
             }
@@ -72,7 +72,7 @@ def Xform "root" (
         }
         "pose" {
             over "GEO" (
-                references = @pose/mesh/camerageo_modelling_test_beast_generic01_pose_mesh.usd@
+                references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/pose/mesh/camerageo_modelling_test_beast_generic01_pose_mesh.usd@
             )
             {
             }
@@ -80,7 +80,7 @@ def Xform "root" (
         }
         "render_high" {
             over "GEO" (
-                references = @render_high/mesh/camerageo_modelling_test_beast_generic01_render_high_mesh.usd@
+                references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/render_high/mesh/camerageo_modelling_test_beast_generic01_render_high_mesh.usd@
             )
             {
             }

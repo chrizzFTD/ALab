@@ -4,7 +4,7 @@
 )
 
 def "root" (
-    prepend references = @../../../fragment/geo/modelling/electronics_camera02/geo_modelling_electronics_camera02.usda@
+    prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/geo/modelling/electronics_camera02/geo_modelling_electronics_camera02.usda@
 )
 {
 }

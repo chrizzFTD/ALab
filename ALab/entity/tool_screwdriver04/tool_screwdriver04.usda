@@ -2,9 +2,9 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @surfacing/tool_screwdriver04_surfacing.usda@,
-        @modelling/tool_screwdriver04_modelling.usda@,
-        @preview/tool_screwdriver04_preview.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/surfacing/tool_screwdriver04_surfacing.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/modelling/tool_screwdriver04_modelling.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/preview/tool_screwdriver04_preview.usda@
     ]
     upAxis = "Y"
 )

@@ -14,19 +14,19 @@ def Xform "root" (
 )
 {
     def Xform "body_M_hrc" (
-        prepend references = @../../../../entity/stoat_body01/stoat_body01.usda@
+        prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/stoat_body01/stoat_body01.usda@
     )
     {
     }
 
     def Xform "outfit_M_hrc" (
-        prepend references = @../../../../entity/stoat_outfit01/stoat_outfit01.usda@
+        prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/stoat_outfit01/stoat_outfit01.usda@
     )
     {
     }
 
     def Xform "backpack_M_hrc" (
-        prepend references = @../../../../entity/stoat_backpack01/stoat_backpack01.usda@
+        prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/stoat_backpack01/stoat_backpack01.usda@
     )
     {
     }

@@ -4,7 +4,8 @@
 )
 
 def "root" (
-    prepend references = @base/placement/mk020_0281_export_base_placement.usda@
+    prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/placement/mk020_0281_export_base_placement.usda@
 )
 {
 }
+

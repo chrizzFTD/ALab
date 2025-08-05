@@ -5,8 +5,8 @@
 
 def "root" (
     prepend references = [
-        @../../../fragment/look/surfacing/lab_remi_body01/look_surfacing_lab_remi_body01.usda@,
-        @../../../fragment/weave/surfacing/lab_remi_flag01/weave_surfacing_lab_remi_flag01.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/look/surfacing/lab_remi_body01/look_surfacing_lab_remi_body01.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/weave/surfacing/lab_remi_flag01/weave_surfacing_lab_remi_flag01.usda@
     ]
 )
 {

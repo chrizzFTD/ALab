@@ -4,7 +4,7 @@
 )
 
 def "root" (
-    prepend references = @../../../fragment/breakdown/assembly/shot/mk020_0281_breakdown_assembly_shot.usda@
+    prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/breakdown/assembly/shot/mk020_0281_breakdown_assembly_shot.usda@
 )
 {
 }

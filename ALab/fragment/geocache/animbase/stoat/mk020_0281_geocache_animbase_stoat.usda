@@ -5,8 +5,8 @@
 
 over "root" (
     prepend references = [
-        @render_high/cache/mk020_0281_geocache_animbase_stoat_render_high_cache/cache.usda@,
-        @skeleton/cache/mk020_0281_geocache_animbase_stoat_skeleton_cache/cache.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/render_high/cache/mk020_0281_geocache_animbase_stoat_render_high_cache/cache.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/skeleton/cache/mk020_0281_geocache_animbase_stoat_skeleton_cache/cache.usda@
     ]
     variants = {
         string geo_vis = "default"

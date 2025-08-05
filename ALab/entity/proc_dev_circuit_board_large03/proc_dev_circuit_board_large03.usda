@@ -2,8 +2,8 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @assembly/proc_dev_circuit_board_large03_assembly.usda@,
-        @preview/proc_dev_circuit_board_large03_preview.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/assembly/proc_dev_circuit_board_large03_assembly.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/preview/proc_dev_circuit_board_large03_preview.usda@
     ]
     upAxis = "Y"
 )

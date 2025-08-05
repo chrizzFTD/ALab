@@ -2,12 +2,13 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @../lightingrenderovers/mk020_0281_lightingrenderovers.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/../lightingrenderovers/mk020_0281_lightingrenderovers.usda@
     ]
 )
 
 def "root" (
-    prepend references = @../../../fragment/lightrig/lighting/mk020_0281_export/lightrig_lighting_mk020_0281_export.usda@
+    prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/lightrig/lighting/mk020_0281_export/lightrig_lighting_mk020_0281_export.usda@
 )
 {
 }
+

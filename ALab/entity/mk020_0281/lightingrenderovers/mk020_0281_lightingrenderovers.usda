@@ -4,7 +4,7 @@
 )
 
 def "root" (
-    prepend references = @../../../fragment/config/lightingrenderovers/rendered_dof/mk020_0281_config_lightingrenderovers_rendered_dof.usda@
+    prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/config/lightingrenderovers/rendered_dof/mk020_0281_config_lightingrenderovers_rendered_dof.usda@
 )
 {
 }

@@ -2,9 +2,9 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @surfacing/tool_wrench_boxend02_surfacing.usda@,
-        @modelling/tool_wrench_boxend02_modelling.usda@,
-        @preview/tool_wrench_boxend02_preview.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/surfacing/tool_wrench_boxend02_surfacing.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/modelling/tool_wrench_boxend02_modelling.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/preview/tool_wrench_boxend02_preview.usda@
     ]
     upAxis = "Y"
 )

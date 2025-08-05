@@ -4,7 +4,7 @@
 )
 
 def "root" (
-    prepend references = @../../../fragment/assembly/assembly/proc_dev_circuit_board_large01/assembly_assembly_proc_dev_circuit_board_large01.usd@
+    prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/assembly/assembly/proc_dev_circuit_board_large01/assembly_assembly_proc_dev_circuit_board_large01.usd@
 )
 {
 }

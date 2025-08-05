@@ -2,9 +2,9 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @surfacing/electronics_spoolrack_surfacing.usda@,
-        @modelling/electronics_spoolrack_modelling.usda@,
-        @preview/electronics_spoolrack_preview.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/surfacing/electronics_spoolrack_surfacing.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/modelling/electronics_spoolrack_modelling.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/preview/electronics_spoolrack_preview.usda@
     ]
     upAxis = "Y"
 )

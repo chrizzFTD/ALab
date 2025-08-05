@@ -7,6 +7,6 @@ def "root" (
     kind = "subcomponent"
 )
 {
-    asset identifier = @base/data/comptemplate_lighting_mk020_0030_key_juliens_base_data.nk@
+    asset identifier = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/data/comptemplate_lighting_mk020_0030_key_juliens_base_data.nk@
 }
 

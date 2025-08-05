@@ -18,7 +18,7 @@ def Xform "root" (
             float3[] extentsHint = [(-5.9782014, -9.421527, -0.13986506), (6.0215945, 9.404982, 0.8296261)]
 
             over "GEO" (
-                payload = @base/mesh/geo_modelling_decor_paper_notea03_base_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/mesh/geo_modelling_decor_paper_notea03_base_mesh.usd@
             )
             {
             }
@@ -34,7 +34,7 @@ def Xform "root" (
             float3[] extentsHint = [(-5.9782014, -9.421527, -0.13986506), (6.0215945, 9.404982, 0.8296261)]
 
             over "GEO" (
-                payload = @deform_high/mesh/geo_modelling_decor_paper_notea03_deform_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_high/mesh/geo_modelling_decor_paper_notea03_deform_high_mesh.usd@
             )
             {
             }
@@ -47,7 +47,7 @@ def Xform "root" (
             float3[] extentsHint = [(-5.9488397, -9.412732, -0.13448328), (5.4040875, 9.404982, 0.8296261)]
 
             over "GEO" (
-                payload = @display_high/mesh/geo_modelling_decor_paper_notea03_display_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_decor_paper_notea03_display_high_mesh.usd@
             )
             {
             }
@@ -69,7 +69,7 @@ def Xform "root" (
             float3[] extentsHint = [(-5.9782014, -9.421527, -0.13986506), (6.0215945, 9.404982, 0.8296261)]
 
             over "GEO" (
-                payload = @pose/mesh/geo_modelling_decor_paper_notea03_pose_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/pose/mesh/geo_modelling_decor_paper_notea03_pose_mesh.usd@
             )
             {
             }
@@ -84,7 +84,7 @@ def Xform "root" (
             float3[] extentsHint = [(-5.9782014, -9.421527, -0.13986506), (6.0215945, 9.404982, 0.8296261)]
 
             over "GEO" (
-                payload = @render_high/mesh/geo_modelling_decor_paper_notea03_render_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/render_high/mesh/geo_modelling_decor_paper_notea03_render_high_mesh.usd@
             )
             {
                 float3[] extentsHint = [(-5.9782014, -9.421527, -0.13986506), (6.0215945, 9.404982, 0.8296261)]
@@ -103,7 +103,7 @@ def Xform "root" (
                     }
 
                     def Xform "GEO_PROXY" (
-                        payload = @display_high/mesh/geo_modelling_decor_paper_notea03_display_high_mesh.usd@
+                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_decor_paper_notea03_display_high_mesh.usd@
                     )
                     {
                         vector3d[] extentsHint = [(-5.978201389312744, -9.421526908874512, -0.13986505568027496), (6.021594524383545, 9.40498161315918, 0.8296260833740234)]

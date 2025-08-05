@@ -2,8 +2,8 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @../animfxcache/mk020_0281_animfxcache.usda@,
-        @../animbase/mk020_0281_animbase.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/../animfxcache/mk020_0281_animfxcache.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/../animbase/mk020_0281_animbase.usda@
     ]
 )
 

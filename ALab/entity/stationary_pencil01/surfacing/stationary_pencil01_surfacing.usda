@@ -4,7 +4,7 @@
 )
 
 def "root" (
-    prepend references = @../../../fragment/look/surfacing/stationary_pencil01/look_surfacing_stationary_pencil01.usda@
+    prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/look/surfacing/stationary_pencil01/look_surfacing_stationary_pencil01.usda@
 )
 {
 }

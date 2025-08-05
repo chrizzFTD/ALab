@@ -9,7 +9,7 @@ def Xform "root" (
 {
     def Xform "decor_sheets_planning01_0001" (
         instanceable = true
-        prepend references = @../../../../entity/decor_sheets_planning01/decor_sheets_planning01.usda@
+        prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/decor_sheets_planning01/decor_sheets_planning01.usda@
     )
     {
     }

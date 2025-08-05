@@ -2,9 +2,9 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @surfacing/proc_dev_circuit_resistor01_surfacing.usda@,
-        @modelling/proc_dev_circuit_resistor01_modelling.usda@,
-        @preview/proc_dev_circuit_resistor01_preview.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/surfacing/proc_dev_circuit_resistor01_surfacing.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/modelling/proc_dev_circuit_resistor01_modelling.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/preview/proc_dev_circuit_resistor01_preview.usda@
     ]
     upAxis = "Y"
 )

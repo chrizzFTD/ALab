@@ -9,49 +9,49 @@ def Xform "root" (
 )
 {
     def Xform "lab_electronics01_0001" (
-        prepend references = @../../../../entity/lab_electronics01/lab_electronics01.usda@
+        prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/lab_electronics01/lab_electronics01.usda@
     )
     {
     }
 
     def Xform "lab_garage01_0001" (
-        prepend references = @../../../../entity/lab_garage01/lab_garage01.usda@
+        prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/lab_garage01/lab_garage01.usda@
     )
     {
     }
 
     def Xform "lab_hydrophonics01_0001" (
-        prepend references = @../../../../entity/lab_hydrophonics01/lab_hydrophonics01.usda@
+        prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/lab_hydrophonics01/lab_hydrophonics01.usda@
     )
     {
     }
 
     def Xform "lab_inspiration01_0001" (
-        prepend references = @../../../../entity/lab_inspiration01/lab_inspiration01.usda@
+        prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/lab_inspiration01/lab_inspiration01.usda@
     )
     {
     }
 
     def Xform "lab_planning01_0001" (
-        prepend references = @../../../../entity/lab_planning01/lab_planning01.usda@
+        prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/lab_planning01/lab_planning01.usda@
     )
     {
     }
 
     def Xform "lab_projector01_0001" (
-        prepend references = @../../../../entity/lab_projector01/lab_projector01.usda@
+        prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/lab_projector01/lab_projector01.usda@
     )
     {
     }
 
     def Xform "lab_structure01_0001" (
-        prepend references = @../../../../entity/lab_structure01/lab_structure01.usda@
+        prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/lab_structure01/lab_structure01.usda@
     )
     {
     }
 
     def Xform "lab_workbench01_0001" (
-        prepend references = @../../../../entity/lab_workbench01/lab_workbench01.usda@
+        prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/lab_workbench01/lab_workbench01.usda@
     )
     {
     }
@@ -61,7 +61,7 @@ def Xform "root" (
                 assettype = "standin"
             )
             {
-                custom asset identifier = @standin/data/assembly_assembly_alab_set01_standin_data@
+                custom asset identifier = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/standin/data/assembly_assembly_alab_set01_standin_data@
             }
 
         }

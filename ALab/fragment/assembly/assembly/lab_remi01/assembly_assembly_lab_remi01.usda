@@ -15,13 +15,13 @@ def Xform "root" (
 )
 {
     def Xform "body_M_hrc" (
-        prepend references = @../../../../entity/lab_remi_body01/lab_remi_body01.usda@
+        prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/lab_remi_body01/lab_remi_body01.usda@
     )
     {
     }
 
     def Xform "head_M_hrc" (
-        prepend references = @../../../../entity/lab_remi_head01/lab_remi_head01.usda@
+        prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/entity/lab_remi_head01/lab_remi_head01.usda@
     )
     {
     }

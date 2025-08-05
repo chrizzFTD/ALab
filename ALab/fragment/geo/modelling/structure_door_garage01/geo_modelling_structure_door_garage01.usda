@@ -18,7 +18,7 @@ def Xform "root" (
             float3[] extentsHint = [(-508.20154, -85.21944, 403.29178), (-244.56586, 204.75829, 419.03693)]
 
             over "GEO" (
-                payload = @base/mesh/geo_modelling_structure_door_garage01_base_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/mesh/geo_modelling_structure_door_garage01_base_mesh.usd@
             )
             {
             }
@@ -34,7 +34,7 @@ def Xform "root" (
             float3[] extentsHint = [(-508.20154, -85.21944, 403.29178), (-244.56586, 204.75829, 419.03693)]
 
             over "GEO" (
-                payload = @deform_high/mesh/geo_modelling_structure_door_garage01_deform_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_high/mesh/geo_modelling_structure_door_garage01_deform_high_mesh.usd@
             )
             {
             }
@@ -47,7 +47,7 @@ def Xform "root" (
             float3[] extentsHint = [(-508.14948, -85.14972, 403.28775), (-244.58047, 204.75829, 419.0511)]
 
             over "GEO" (
-                payload = @display_high/mesh/geo_modelling_structure_door_garage01_display_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_structure_door_garage01_display_high_mesh.usd@
             )
             {
             }
@@ -69,7 +69,7 @@ def Xform "root" (
             float3[] extentsHint = [(-508.20154, -85.21944, 403.29178), (-244.56586, 204.75829, 419.03693)]
 
             over "GEO" (
-                payload = @pose/mesh/geo_modelling_structure_door_garage01_pose_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/pose/mesh/geo_modelling_structure_door_garage01_pose_mesh.usd@
             )
             {
             }
@@ -84,7 +84,7 @@ def Xform "root" (
             float3[] extentsHint = [(-508.20154, -85.21944, 403.29178), (-244.56586, 204.75829, 419.03693)]
 
             over "GEO" (
-                payload = @render_high/mesh/geo_modelling_structure_door_garage01_render_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/render_high/mesh/geo_modelling_structure_door_garage01_render_high_mesh.usd@
             )
             {
                 float3[] extentsHint = [(-508.20154, -85.21944, 403.29178), (-244.56586, 204.75829, 419.03693)]
@@ -103,7 +103,7 @@ def Xform "root" (
                     }
 
                     def Xform "GEO_PROXY" (
-                        payload = @display_high/mesh/geo_modelling_structure_door_garage01_display_high_mesh.usd@
+                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_structure_door_garage01_display_high_mesh.usd@
                     )
                     {
                         vector3d[] extentsHint = [(-508.2015380859375, -85.21943664550781, 403.2917785644531), (-244.56585693359375, 204.75828552246094, 419.03692626953125)]

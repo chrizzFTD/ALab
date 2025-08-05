@@ -2,9 +2,9 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @surfacing/electronics_ham_cabling02_surfacing.usda@,
-        @modelling/electronics_ham_cabling02_modelling.usda@,
-        @preview/electronics_ham_cabling02_preview.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/surfacing/electronics_ham_cabling02_surfacing.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/modelling/electronics_ham_cabling02_modelling.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/preview/electronics_ham_cabling02_preview.usda@
     ]
     upAxis = "Y"
 )

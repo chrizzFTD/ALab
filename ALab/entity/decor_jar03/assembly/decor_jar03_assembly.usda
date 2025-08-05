@@ -4,7 +4,7 @@
 )
 
 def "root" (
-    prepend references = @../../../fragment/assembly/assembly/jar_filling/assembly_assembly_jar_filling.usd@
+    prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/fragment/assembly/assembly/jar_filling/assembly_assembly_jar_filling.usd@
 )
 {
 }

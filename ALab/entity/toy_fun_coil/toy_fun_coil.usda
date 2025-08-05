@@ -2,9 +2,9 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @surfacing/toy_fun_coil_surfacing.usda@,
-        @modelling/toy_fun_coil_modelling.usda@,
-        @preview/toy_fun_coil_preview.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/surfacing/toy_fun_coil_surfacing.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/modelling/toy_fun_coil_modelling.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/preview/toy_fun_coil_preview.usda@
     ]
     upAxis = "Y"
 )

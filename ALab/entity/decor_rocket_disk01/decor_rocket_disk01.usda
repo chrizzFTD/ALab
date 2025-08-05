@@ -2,9 +2,9 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @surfacing/decor_rocket_disk01_surfacing.usda@,
-        @modelling/decor_rocket_disk01_modelling.usda@,
-        @preview/decor_rocket_disk01_preview.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/surfacing/decor_rocket_disk01_surfacing.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/modelling/decor_rocket_disk01_modelling.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/preview/decor_rocket_disk01_preview.usda@
     ]
     upAxis = "Y"
 )

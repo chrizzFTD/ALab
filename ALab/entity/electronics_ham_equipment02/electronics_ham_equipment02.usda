@@ -2,10 +2,10 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @lighting/electronics_ham_equipment02_lighting.usda@,
-        @surfacing/electronics_ham_equipment02_surfacing.usda@,
-        @modelling/electronics_ham_equipment02_modelling.usda@,
-        @preview/electronics_ham_equipment02_preview.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/lighting/electronics_ham_equipment02_lighting.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/surfacing/electronics_ham_equipment02_surfacing.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/modelling/electronics_ham_equipment02_modelling.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/preview/electronics_ham_equipment02_preview.usda@
     ]
     upAxis = "Y"
 )

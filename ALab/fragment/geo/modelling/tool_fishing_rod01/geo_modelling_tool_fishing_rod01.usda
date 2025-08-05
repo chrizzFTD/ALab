@@ -18,7 +18,7 @@ def Xform "root" (
             float3[] extentsHint = [(-5.9256673, -3.4395237, 0.0051708817), (3.3836992, 6.987322, 160.39226)]
 
             over "GEO" (
-                payload = @base/mesh/geo_modelling_tool_fishing_rod01_base_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/mesh/geo_modelling_tool_fishing_rod01_base_mesh.usd@
             )
             {
             }
@@ -34,7 +34,7 @@ def Xform "root" (
             float3[] extentsHint = [(-5.9256673, -3.4395237, 0.0051708817), (3.3836992, 6.987322, 160.39226)]
 
             over "GEO" (
-                payload = @deform_high/mesh/geo_modelling_tool_fishing_rod01_deform_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_high/mesh/geo_modelling_tool_fishing_rod01_deform_high_mesh.usd@
             )
             {
             }
@@ -47,7 +47,7 @@ def Xform "root" (
             float3[] extentsHint = [(-5.901241, -3.4117978, 0.010173276), (3.377432, 6.9666333, 160.10002)]
 
             over "GEO" (
-                payload = @display_high/mesh/geo_modelling_tool_fishing_rod01_display_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_tool_fishing_rod01_display_high_mesh.usd@
             )
             {
             }
@@ -69,7 +69,7 @@ def Xform "root" (
             float3[] extentsHint = [(-5.9256673, -3.4395237, 0.0051708817), (3.3836992, 6.987322, 160.39226)]
 
             over "GEO" (
-                payload = @pose/mesh/geo_modelling_tool_fishing_rod01_pose_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/pose/mesh/geo_modelling_tool_fishing_rod01_pose_mesh.usd@
             )
             {
             }
@@ -84,7 +84,7 @@ def Xform "root" (
             float3[] extentsHint = [(-5.9256673, -3.4395237, 0.0051708817), (3.3836992, 6.987322, 160.39226)]
 
             over "GEO" (
-                payload = @render_high/mesh/geo_modelling_tool_fishing_rod01_render_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/render_high/mesh/geo_modelling_tool_fishing_rod01_render_high_mesh.usd@
             )
             {
                 float3[] extentsHint = [(-5.9256673, -3.4395237, 0.0051708817), (3.3836992, 6.987322, 160.39226)]
@@ -103,7 +103,7 @@ def Xform "root" (
                     }
 
                     def Xform "GEO_PROXY" (
-                        payload = @display_high/mesh/geo_modelling_tool_fishing_rod01_display_high_mesh.usd@
+                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_tool_fishing_rod01_display_high_mesh.usd@
                     )
                     {
                         vector3d[] extentsHint = [(-5.9256672859191895, -3.439523696899414, 0.005170881748199463), (3.3836991786956787, 6.987321853637695, 160.3922576904297)]

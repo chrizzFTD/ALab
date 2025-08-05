@@ -13,7 +13,7 @@ over "root" (
     variantSet "camera_domain" = {
         "animbase" {
             def "GEO" (
-                prepend references = @base/cache/mk020_0281_cameracache_animbase_camera01_base_cache.usd@
+                prepend references = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/cache/mk020_0281_cameracache_animbase_camera01_base_cache.usd@
             )
             {
             }

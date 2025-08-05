@@ -18,7 +18,7 @@ def Xform "root" (
             float3[] extentsHint = [(-4.825325, -1.3591138, 82.70797), (126.77617, 133.08441, 244.71036)]
 
             over "GEO" (
-                payload = @base/mesh/geo_modelling_decor_sheets_projector01_base_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/base/mesh/geo_modelling_decor_sheets_projector01_base_mesh.usd@
             )
             {
             }
@@ -34,7 +34,7 @@ def Xform "root" (
             float3[] extentsHint = [(-4.825325, -1.3591138, 82.70797), (126.77617, 133.08441, 244.71036)]
 
             over "GEO" (
-                payload = @deform_high/mesh/geo_modelling_decor_sheets_projector01_deform_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/deform_high/mesh/geo_modelling_decor_sheets_projector01_deform_high_mesh.usd@
             )
             {
             }
@@ -47,7 +47,7 @@ def Xform "root" (
             float3[] extentsHint = [(-4.60776, -1.3591139, 82.823875), (126.691605, 133.08174, 244.50629)]
 
             over "GEO" (
-                payload = @display_high/mesh/geo_modelling_decor_sheets_projector01_display_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_decor_sheets_projector01_display_high_mesh.usd@
             )
             {
             }
@@ -69,7 +69,7 @@ def Xform "root" (
             float3[] extentsHint = [(-4.825325, -1.3591138, 82.70797), (126.77617, 133.08441, 244.71036)]
 
             over "GEO" (
-                payload = @pose/mesh/geo_modelling_decor_sheets_projector01_pose_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/pose/mesh/geo_modelling_decor_sheets_projector01_pose_mesh.usd@
             )
             {
             }
@@ -84,7 +84,7 @@ def Xform "root" (
             float3[] extentsHint = [(-4.825325, -1.3591138, 82.70797), (126.77617, 133.08441, 244.71036)]
 
             over "GEO" (
-                payload = @render_high/mesh/geo_modelling_decor_sheets_projector01_render_high_mesh.usd@
+                payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/render_high/mesh/geo_modelling_decor_sheets_projector01_render_high_mesh.usd@
             )
             {
                 float3[] extentsHint = [(-4.825325, -1.3591138, 82.70797), (126.77617, 133.08441, 244.71036)]
@@ -103,7 +103,7 @@ def Xform "root" (
                     }
 
                     def Xform "GEO_PROXY" (
-                        payload = @display_high/mesh/geo_modelling_decor_sheets_projector01_display_high_mesh.usd@
+                        payload = @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/display_high/mesh/geo_modelling_decor_sheets_projector01_display_high_mesh.usd@
                     )
                     {
                         vector3d[] extentsHint = [(-4.825325012207031, -1.3591138124465942, 82.70796966552734), (126.77616882324219, 133.08441162109375, 244.71035766601562)]

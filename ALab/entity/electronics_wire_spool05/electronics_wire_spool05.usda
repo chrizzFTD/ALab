@@ -2,9 +2,9 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @surfacing/electronics_wire_spool05_surfacing.usda@,
-        @modelling/electronics_wire_spool05_modelling.usda@,
-        @preview/electronics_wire_spool05_preview.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/surfacing/electronics_wire_spool05_surfacing.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/modelling/electronics_wire_spool05_modelling.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/preview/electronics_wire_spool05_preview.usda@
     ]
     upAxis = "Y"
 )

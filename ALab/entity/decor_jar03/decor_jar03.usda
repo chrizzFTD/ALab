@@ -2,10 +2,10 @@
 (
     defaultPrim = "root"
     subLayers = [
-        @surfacing/decor_jar03_surfacing.usda@,
-        @modelling/decor_jar03_modelling.usda@,
-        @assembly/decor_jar03_assembly.usda@,
-        @preview/decor_jar03_preview.usda@
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/surfacing/decor_jar03_surfacing.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/modelling/decor_jar03_modelling.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/assembly/decor_jar03_assembly.usda@,
+        @https://raw.githubusercontent.com/chrizzFTD/ALab/refs/heads/url_references/ALab/preview/decor_jar03_preview.usda@
     ]
     upAxis = "Y"
 )
